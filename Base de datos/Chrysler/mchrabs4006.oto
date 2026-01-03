@@ -1,0 +1,366 @@
+InfoDesginInformationFileName;mchrabs4006
+InfoDesginInformationDesginedBy;Omar
+InfoDesginInformationDate;4/28/2025 1:07:25 PM
+InfoDesginInformationImageFolder;
+InfoDesginInformationImageName;
+InfoCommonFails;
+InfoUntestedDevices;
+InfoPreTestMessage;
+InfoDesginInformationModuleInfo0;68030939AB;ABS4006;Chrysler;2008;Dodge;Caravan/Grand Caravan;3.8L;ABS;;;;68030939AB;;;;;;;;
+InfoDesginInformationHarnessUniversal;;;;true
+InfoDesginInformationHarness1;mhchr599-780v0;Bin-922;;false
+InfoDesginInformationHarness2;mhchrunabs780v0r0;Bin-921;;false
+InfoDesginInformationHarness3;;;;true
+SwGnd1;False;A8;;;Switch;gnd;0.6;Normally Open
+SwGnd2;False;A11;;;Switch;gnd;0.6;Normally Open
+SwGnd3;False;A12;;;Switch;gnd;0.6;Normally Open
+SwGnd4;False;A13;;;Switch;gnd;0.6;Normally Open
+SwGnd5;False;A14;;;Switch;gnd;0.6;Normally Open
+SwGnd6;False;A30;;;Switch;gnd;0.6;Normally Open
+SwGnd7;False;A31;;;Switch;gnd;0.6;Normally Open
+SwGnd8;False;A32;;;Switch;gnd;0.6;Normally Open
+SwGnd9;False;A33;;;Switch;gnd;0.6;Normally Open
+SwGnd10;False;B8;;;Switch;gnd;0.6;Normally Open
+Sw12V1;False;A7;;;Switch;12v;0.6;Normally Open
+Sw12V2;False;A26;;;Switch;12v;0.6;Normally Open
+Sw12V3;False;B7;;;Switch;12v;0.6;Normally Open
+SwConfigurable1;False;B11;;;Switch;gnd;0.6;Normally Open
+SwConfigurable2;False;B12;;;Switch;gnd;0.6;Normally Open
+SwConfigurable3;False;B13;;;Switch;gnd;0.6;Normally Open
+SwConfigurable4;False;B14;;;Switch;gnd;0.6;Normally Open
+SwConfigurable5;False;B15;;;Switch;gnd;0.6;Normally Open
+SwConfigurable6;False;B26;;;Switch;gnd;0.6;Normally Open
+SwConfigurable7;False;B30;;;Switch;gnd;0.6;Normally Open
+SwConfigurable8;False;B31;;;Switch;gnd;0.6;Normally Open
+SwConfigurable9;False;B32;;;Switch;gnd;0.6;Normally Open
+SwConfigurable10;False;B33;;;Switch;gnd;0.6;Normally Open
+SwConfigurable11;False;S11;;;Switch;gnd;0.6;Normally Open
+SwConfigurable12;False;S12;;;Switch;gnd;0.6;Normally Open
+SwConfigurable13;False;S24;;;Switch;gnd;0.6;Normally Open
+SwConfigurable14;False;S25;;;Switch;gnd;0.6;Normally Open
+SwFreeHands1;False;A9,A27;;;;Switch;0.6;Normally Open
+SwFreeHands2;False;B9,B27;;;;Switch;0.6;Normally Open
+SwFreeHands3;False;S7,S20;;;;Switch;0.6;Normally Open
+SwFreeHands4;False;S8,S21;;;;Switch;0.6;Normally Open
+SwFreeHands5;False;S10,S22;;;;Switch;0.6;Normally Open
+SwFreeHands6;False;S9,S23;;;;Switch;0.6;Normally Open
+D2A1;True;A3;Bps 2 sig;;kPa;Interpolation;Inter(Volt,kPa,0,-22,,0.5,0,,1,25,,1.5,49,,2,73,,2.5,98,,3,122,,3.5,146,,4,171,,4.5,179,);-22;179;1
+D2A2;False;A4;;;Volt;Formula;x;0;5;1
+D2A3;False;A5;;;Volt;Formula;x;0;5;1
+D2A4;False;A6;;;Volt;Formula;x;0;5;1
+D2A5;True;A22;Bps Sig;;kPa;Interpolation;Inter(Volt,kPa,0,25,,0.5,31,,1,32,,2,76,,2.5,100,,3,124,,4,173,,5,219,);25;219;1
+D2A6;False;A23;;;Volt;Formula;x;0;5;1
+D2A7;False;A24;;;Volt;Formula;x;0;5;1
+D2A8;False;A25;;;Volt;Formula;x;0;5;1
+D2A9;False;B3;;;Volt;Formula;x;0;5;1
+D2A10;False;B4;;;Volt;Formula;x;0;5;1
+D2A11;False;B5;;;Volt;Formula;x;0;5;1
+D2A12;False;B6;;;Volt;Formula;x;0;5;1
+D2A13;False;B22;;;Volt;Formula;x;0;5;1
+D2A14;False;B23;;;Volt;Formula;x;0;5;1
+D2A15;False;B24;;;Volt;Formula;x;0;5;1
+D2A16;False;B25;;;Volt;Formula;x;0;5;1
+D2A17;False;S1;;;Volt;Formula;x;0;5;1
+D2A18;False;S15;;;Volt;Formula;x;0;5;1
+D2A19;False;S2;;;Volt;Formula;x;0;5;1
+D2A20;False;S14;;;Volt;Formula;x;0;5;1
+D2A21;False;S5;;;Volt;Formula;x;0;5;1
+D2A22;False;S19;;;Volt;Formula;x;0;5;1
+D2A23;False;S6;;;Volt;Formula;x;0;5;1
+D2A24;False;S18;;;Volt;Formula;x;0;5;1
+D2A25;False;S3;;;Volt;Formula;x;0;5;1
+D2A26;False;S4;;;Volt;Formula;x;0;5;1
+D2A27;False;S16;;;Volt;Formula;x;0;5;1
+D2A28;False;S17;;;Volt;Formula;x;0;5;1
+freq1;True;A18;LF;;km/h;Interpolation;Inter(Hz,km/h,0,0,,100,18,,200,36,,300,54,,400,71,,500,89,,600,107,,700,125,,800,143,,900,161,);0;161;50;Step;2;0.2
+freq2;False;A19;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq3;True;A36;LR;;km/h;Interpolation;Inter(Hz,km/h,0,0,,100,18,,200,36,,300,54,,400,71,,500,89,,600,107,,700,125,,800,143,,900,161,);0;161;50;Step;2;0.2
+freq4;True;A37;RF;;km/h;Interpolation;Inter(Hz,km/h,0,0,,100,18,,200,36,,300,54,,400,71,,500,89,,600,107,,700,125,,800,143,,900,161,);0;161;50;Step;2;0.2
+freq5;True;B18;RL;;km/h;Interpolation;Inter(Hz,km/h,0,0,,100,18,,200,36,,300,54,,400,71,,500,89,,600,107,,700,125,,800,143,,900,161,);0;161;50;Step;2;0.2
+freq6;False;B19;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq7;False;B36;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq8;False;B37;;;Hz;Formula;;0;1000;50;Step;2;0.2
+pot1;False;A1;;;Volt;Formula;;0;1000
+pot2;False;A2;;;Volt;Formula;;0;1000
+pot3;False;A20;;;Volt;Formula;;0;1000
+pot4;False;A21;;;Volt;Formula;;0;1000
+pot5;False;B1;;;Volt;Formula;;0;1000
+pot6;False;B2;;;Volt;Formula;;0;1000
+pot7;False;B20;;;Volt;Formula;;0;1000
+pot8;False;B21;;;Volt;Formula;;0;1000
+waveNames;Sync;Crank;Cam1;;;;;
+waveComment;
+waveCheckBox;False;False;False;False;False;False;False;False
+waveColumn1;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn2;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn3;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn4;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn5;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn6;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn7;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn8;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveDisplayRPM;True
+IndicatorsL12V1;True;C9;1k;Bps Low Ref;;On;Off
+IndicatorsL12V2;True;C10;1k;LF Wheel Spd;;On;Off
+IndicatorsL12V3;True;C11;1k;RR Wheel Spd;;On;Off
+IndicatorsL12V4;False;C27;1k;;;On;Off
+IndicatorsL12V5;True;C28;1k;RF wheel spd ;;On;Off
+IndicatorsL12V6;True;C29;1k;LR Wheel Spd;;On;Off
+IndicatorsL12V7;False;C14;100Ω;;;On;Off
+IndicatorsL12V8;False;C15;100Ω;;;On;Off
+IndicatorsL12V9;False;C16;100Ω;;;On;Off
+IndicatorsL12V10;False;C17;100Ω;;;On;Off
+IndicatorsL12V11;False;C18;100Ω;;;On;Off
+IndicatorsL12V12;False;C19;100Ω;;;On;Off
+IndicatorsL12V13;False;C32;100Ω;;;On;Off
+IndicatorsL12V14;False;C33;100Ω;;;On;Off
+IndicatorsL12V15;False;C34;100Ω;;;On;Off
+IndicatorsL12V16;False;C35;100Ω;;;On;Off
+IndicatorsL12V17;False;C36;100Ω;;;On;Off
+IndicatorsL12V18;False;C37;100Ω;;;On;Off
+IndicatorsL12V19;False;C12;200Ω;;;On;Off
+IndicatorsL12V20;False;C13;200Ω;;;On;Off
+IndicatorsL12V21;False;C30;200Ω;;;On;Off
+IndicatorsL12V22;False;C31;200Ω;;;On;Off
+IndicatorsL12V23;False;C'10;100Ω;;;On;Off
+IndicatorsL12V24;False;C'11;100Ω;;;On;Off
+IndicatorsL12V25;False;C'12;100Ω;;;On;Off
+IndicatorsL12V26;False;C'13;100Ω;;;On;Off
+IndicatorsL12V27;False;C'14;100Ω;;;On;Off
+IndicatorsL12V28;False;C'15;100Ω;;;On;Off
+IndicatorsL12V31;False;C'18;100Ω;;;On;Off
+IndicatorsL12V32;False;C'19;100Ω;;;On;Off
+IndicatorsL12V33;False;C'28;100Ω;;;On;Off
+IndicatorsL12V34;False;C'29;100Ω;;;On;Off
+IndicatorsL12V35;False;C'30;100Ω;;;On;Off
+IndicatorsL12V36;False;C'31;100Ω;;;On;Off
+IndicatorsL12V37;False;C'32;100Ω;;;On;Off
+IndicatorsL12V38;False;C'33;100Ω;;;On;Off
+IndicatorsL12V41;False;C'36;100Ω;;;On;Off
+IndicatorsL12V42;False;C'37;100Ω;;;On;Off
+IndicatorsLGND1;False;C6;200Ω;;;On;Off
+IndicatorsLGND2;False;C7;200Ω;;;On;Off
+IndicatorsLGND3;False;C24;200Ω;;;On;Off
+IndicatorsLGND4;False;C25;200Ω;;;On;Off
+IndicatorsLGND5;False;C8;100Ω;;;On;Off
+IndicatorsLGND6;False;C26;100Ω;;;On;Off
+IndicatorsLGND7;False;C'6;100Ω;;;On;Off
+IndicatorsLGND8;False;C'7;100Ω;;;On;Off
+IndicatorsLGND9;False;C'8;100Ω;;;On;Off
+IndicatorsLGND10;False;C'9;100Ω;;;On;Off
+IndicatorsLGND11;False;C'24;100Ω;;;On;Off
+IndicatorsLGND12;False;C'25;100Ω;;;On;Off
+IndicatorsLGND13;False;C'26;100Ω;;;On;Off
+IndicatorsLGND14;False;C'27;100Ω;;;On;Off
+IndicatorsConfigurable01;False;C'16;100Ω;;;On;Off;12v
+IndicatorsConfigurable02;False;C'17;100Ω;;;On;Off;12v
+IndicatorsConfigurable03;False;C'34;100Ω;;;On;Off;12v
+IndicatorsConfigurable04;False;C'35;100Ω;;;On;Off;12v
+IndicatorsHigh1;False;C'4;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsHigh2;False;C'5;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsHigh3;False;C'22;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsHigh4;False;C'23;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsStep1;False;C5;C23;200Ω Positive;200Ω Negative;;;On;Off
+IndicatorsStep2;False;C4;C22;200Ω Positive;200Ω Negative;;;On;Off
+IndicatorsStep3;False;C3;C21;200Ω Positive;200Ω Negative;;;On;Off
+IndicatorsStep4;False;C2;C20;200Ω Positive;200Ω Negative;;;On;Off
+IgnitorsType;High Voltage
+IgnitorsState1;False;G25;Ign1
+IgnitorsState2;False;G24;Ign2
+IgnitorsState3;False;G23;Ign3
+IgnitorsState4;False;G22;Ign4
+IgnitorsState5;False;G21;Ign5
+IgnitorsState6;False;G20;Ign6
+IgnitorsState7;False;G13;Ign7
+IgnitorsState8;False;G12;Ign8
+IgnitorsState9;False;G11;Ign9
+IgnitorsState10;False;G10;Ign10
+InjectorsType;High Current
+InjectorsState1;False;E25 / F25;Inj1
+InjectorsState2;False;E24 / F24;Inj2
+InjectorsState3;False;E23 / F23;Inj3
+InjectorsState4;False;E22 / F22;Inj4
+InjectorsState5;False;E21 / F21;Inj5
+InjectorsState6;False;E20 / F20;Inj6
+InjectorsState7;False;E13 / F13;Inj7
+InjectorsState8;False;E12 / F12;Inj8
+InjectorsState9;False;E11 / F11;Inj9
+InjectorsState10;False;E10 / F10;Inj10
+pwm1;False;D3;6.5 Volt Maximum;;
+pwm2;False;D4;6.5 Volt Maximum;;
+pwm3;False;D5;6.5 Volt Maximum;;
+pwm4;False;D6;6.5 Volt Maximum;;
+pwm5;False;D7;6.5 Volt Maximum;;
+A2D1;False;D27;;;Volt
+A2D2;True;-;PS Voltage;PS Voltage;Volt
+A2D3;True;-;ECU Current;ECU Current;A
+A2D4;True;D21;Bpr Volt;;Volt
+A2D5;True;D22;Low Data;;Volt
+A2D6;True;D23;High Data;;Volt
+A2D7;False;D24;;;Volt
+A2D8;True;D25;Dynamics sens;;Volt
+A2D9;False;D26;;;Volt
+A2D10;False;D28;;;Volt
+A2D11;False;D29;;;Volt
+A2D12;False;D30;;;Volt
+A2D13;False;D31;;;Volt
+A2D14;False;D32;;;Volt
+A2D15;False;D33;;;Volt
+A2D16;False;D34;;;Volt
+SpecialDigitalTransmissionMainSwitch;False
+SpecialDigitalTransmissionSwitchValues;N/A;N/A;N/A;N/A;N/A
+SpecialDigitalTransmission1;False;P;;;;;
+SpecialDigitalTransmission2;False;R;;;;;
+SpecialDigitalTransmission3;False;N;;;;;
+SpecialDigitalTransmission4;False;D;;;;;
+SpecialDigitalTransmission5;False;;;;;;
+SpecialDigitalTransmission6;False;;;;;;
+SpecialDigitalTransmission7;False;;;;;;
+SpecialDigitalTransmission8;False;;;;;;
+SpecialAnalogTransmissionMainSwitch;False
+SpecialAnalogTransmissionSelectDac;N/A
+SpecialAnalogTransmission1;False;P;
+SpecialAnalogTransmission2;False;R;
+SpecialAnalogTransmission3;False;N;
+SpecialAnalogTransmission4;False;D;
+SpecialAnalogTransmission5;False;;
+SpecialAnalogTransmission6;False;;
+SpecialAnalogTransmission7;False;;
+SpecialAnalogTransmission8;False;;
+SpecialDigitalCruiseControlMainSwitch;False
+SpecialDigitalCruiseControlSwitchValues;N/A;N/A;N/A;N/A;N/A
+SpecialDigitalCruiseControl1;False;On/Off;;;;;
+SpecialDigitalCruiseControl2;False;Set +;;;;;
+SpecialDigitalCruiseControl3;False;Set -;;;;;
+SpecialDigitalCruiseControl4;False;Cancel;;;;;
+SpecialDigitalCruiseControl5;False;Limit;;;;;
+SpecialDigitalCruiseControl6;False;;;;;;
+SpecialDigitalCruiseControl7;False;;;;;;
+SpecialDigitalCruiseControl8;False;;;;;;
+SpecialAnalogCruiseControlMainSwitch;False
+SpecialAnalogCruiseControlSelectDac;N/A
+SpecialAnalogCruiseControl1;False;On/Off;
+SpecialAnalogCruiseControl2;False;Set +;
+SpecialAnalogCruiseControl3;False;Set -;
+SpecialAnalogCruiseControl4;False;Cancel;
+SpecialAnalogCruiseControl5;False;Limit;
+SpecialAnalogCruiseControl6;False;;
+SpecialAnalogCruiseControl7;False;;
+SpecialAnalogCruiseControl8;False;;
+Special3StateSwitch1;False;;;;False;;;;False;;;;False;;;;False;;;
+Special3StateSwitch2;False;;;;False;;;;False;;;;False;;;;False;;;
+Special3StateSwitch3;False;;;;False;;;;False;;;;False;;;;False;;;
+ManualInputValues
+AutoTestInputColumns;Step;Batt;Ign;RPM;Bps 2 sig*kPa*(A3);Bps Sig*kPa*(A22);LF*km/h*(A18);LR*km/h*(A36);RF*km/h*(A37);RL*km/h*(B18);PS Voltage
+AutoTestInputStepsCount;46
+AutoTestInputStepsValues0;1;Off;Off;-;-;-;-;-;-;-;-
+AutoTestInputStepsValues1;2;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues2;3;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues3;4;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues4;5;On;On;0;0;31;0;0;0;0;12
+AutoTestInputStepsValues5;6;On;On;0;0;76;0;0;0;0;12
+AutoTestInputStepsValues6;7;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues7;8;On;On;0;73;76;10;10;10;10;12
+AutoTestInputStepsValues8;9;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues9;10;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues10;11;On;On;0;0;0;20;20;20;20;12
+AutoTestInputStepsValues11;12;On;On;0;0;0;140;140;140;140;12
+AutoTestInputStepsValues12;13;On;Off;0;0;0;10;10;10;10;12
+AutoTestInputStepsValues13;14;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues14;15;On;Off;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues15;16;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues16;17;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues17;18;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues18;19;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues19;20;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues20;21;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues21;22;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues22;23;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues23;24;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues24;25;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues25;26;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues26;27;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues27;28;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues28;29;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues29;30;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues30;31;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues31;32;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues32;33;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues33;34;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues34;35;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues35;36;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues36;37;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues37;38;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues38;39;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues39;40;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues40;41;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues41;42;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues42;43;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues43;44;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues44;45;On;On;0;0;0;0;0;0;0;12
+AutoTestInputStepsValues45;46;On;On;0;0;0;0;0;0;0;12
+AutoTestStepTests2;Loads;LF Wheel Spd;On;;Value;;;LF Wheel Spd OK;LF Wheel Spd Problem;;Volts;Loads;RR Wheel Spd;On;;Value;;;RR Wheel Spd OK;RR Wheel Spd Problem;;bar;Loads;RF wheel spd ;On;;Value;;;RF wheel spd  OK;RF wheel spd  Problem;;;Loads;LR Wheel Spd;On;;Value;;;LR Wheel Spd OK;LR Wheel Spd Problem;;;Loads;Bps Low Ref;At least 1 Off;;Value;;;Bps Low Ref OK;Bps Low Ref Problem;;
+AutoTestStepTests3;A2D;PS Voltage;    =;12;Value;0.3;0.3;PS Voltage OK;PS Voltage Problem;;Volts;A2D;ECU Current;    <;0.60;Value;0.2;0.2;ECU Current OK;ECU Current Problem;;bar;A2D;Dynamics sens;    =;12;Value;0.3;0.3;Dynamics sens OK;Dynamics sens Problem;;
+AutoTestStepTests4;;ABS Pump Feed;    =;25;Value;2;2;ABS Pump Feed OK;ABS Pump Feed Problem;Volts;Volts;;Pressure Sensor;    =;35;Value;5;5;Pressure Sensor OK;Pressure Sensor Problem;bar;bar
+AutoTestStepTests5;;ABS Pump Feed;    =;25;Value;2;2;ABS Pump Feed OK;ABS Pump Feed Problem;Volts;Volts;;Pressure Sensor;    =;76;Value;5;5;Pressure Sensor OK;Pressure Sensor Problem;bar;bar
+AutoTestStepTests7;A2D;Bpr Volt;    =;2.89;Value;0.5;0.5;Bpr Volt OK;Bpr Volt Problem;;;A2D;Low Data;Range;0.50;Value;0.55;2.25;Low Data OK;Low Data Problem;;;A2D;High Data;Range;0.50;Value;0.55;3.75;High Data OK;High Data Problem;;
+AutoTestStepTests10;;LF Wheel Speed;    =;20;Value;2;2;LF Wheel Speed OK;LF Wheel Speed Problem;km/h;km/h;;LR Wheel Speed;    =;20;Value;2;2;LR Wheel Speed OK;LR Wheel Speed Problem;km/h;km/h;;RF Wheel Speed;    =;20;Value;2;2;RF Wheel Speed OK;RF Wheel Speed Problem;km/h;km/h;;RR Wheel Speed;    =;20;Value;2;2;RR Wheel Speed OK;RR Wheel Speed Problem;km/h;km/h
+AutoTestStepTests11;;LF Wheel Speed;    =;140;Value;5;5;LF Wheel Speed OK;LF Wheel Speed Problem;km/h;km/h;;LR Wheel Speed;    =;140;Value;5;5;LR Wheel Speed OK;LR Wheel Speed Problem;km/h;km/h;;RF Wheel Speed;    =;140;Value;5;5;RF Wheel Speed OK;RF Wheel Speed Problem;km/h;km/h;;RR Wheel Speed;    =;140;Value;5;5;RR Wheel Speed OK;RR Wheel Speed Problem;km/h;km/h
+AutoTestStepTests15;A2D;Bpr Volt;    =;1.18;Value;0.3;0.3;Bpr Volt OK;Bpr Volt Problem;;;A2D;Low Data;Range;0.50;Value;0.50;2.25;Low Data OK;Low Data Problem;;;A2D;High Data;Range;0.50;Value;0.50;3.75;High Data OK;High Data Problem;;
+AutoTestStepTests16;A2D;ECU Current;Range;4.2;Value;3;5.2;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests17;A2D;ECU Current;    <;1;Value;0.3;0.3;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests21;A2D;ECU Current;Range;1.4;Value;0.65;2;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests22;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests23;A2D;ECU Current;Range;2.2;Value;1;2.8;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests24;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests25;A2D;ECU Current;Range;1.5;Value;0.80;2;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests26;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests27;A2D;ECU Current;Range;1.6;Value;0.80;2;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests28;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests29;A2D;ECU Current;Range;0.90;Value;0.80;2;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests30;A2D;ECU Current;    <;1;Value;0.3;0.3;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests31;A2D;ECU Current;Range;2.22;Value;0.95;2.5;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests32;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests33;A2D;ECU Current;Range;1.50;Value;0.80;2;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests34;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests35;A2D;ECU Current;Range;1.50;Value;0.80;2.50;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests36;A2D;ECU Current;    <;1;Value;;;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests37;A2D;ECU Current;Range;1.50;Value;0.80;2.50;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests38;A2D;ECU Current;    <;1;Value;1;1;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests39;A2D;ECU Current;Range;1.70;Value;0.80;2.50;ECU Current OK;ECU Current Problem;;
+AutoTestStepTests40;A2D;ECU Current;    <;1;Value;0.1;0.1;ECU Current OK;ECU Current Problem;;
+AutoTestTestStatus;Battery Off , Ignition Off;Battery On;Test loads (LF,RR,RF,LR) On & Bps Ref Off;Test Volt & Current;Test Low values ;Test High Values ;Close Ottotest;Test Bpr Volt, Low data, High data ;Clear DTCs;Close Ottotest;Test Low values ;Test High Values ;Close Ottotest;Clear DTC;Close Ottotest;Test Bpr Volt, Low data, High data ;Test Pump On;Test Pump Off;Close Ottotest;Clear DTCs;Close Ottotest;Test Left Front Inlet Valve On;Test Left Front Inlet Valve Off;Test Left Front Outlet Valve On;Test Left Front Outlet valve Off;Test Left Rear Inlet valve On;Test Left Rear Inlet valve Off;Test Rear Outlet Valve On;Test Rear Outlet Valve Off;Test Right Front Inlet valve On;Test Right Front Inlet valve Off;Test Right Front Outlet Valve On;Test Right Front Outlet Valve Off;Test RR Inlet Valve On;Test RR Inlet Valve Off;Test RR Outlet Valve On;Test RR Outlet Valve Off;Test Traction Control Outlet Valve #1 On;Test Traction Control Outlet Valve #1 Off;Test Traction Control Outlet Valve #2 On;Test Traction Control Outlet Valve #2 Off;Close Ottotest ;Close Ottotest;Clear DTCs;Close Ottotets;End
+AutoTestStepMessage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AutoTestPeriod;3;3;3;5;5;5;5;5;5;5;5;5;5;5;1;5;0.4;5;5;5;5;0.4;0.4;0.4;0.4;0.4;1;0.4;1;0.4;1;0.4;1;0.4;0.3;0.4;0.3;0.4;5;0.4;0.4;5;2;5;2;1
+AutoTestLoadsPolarity;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False
+AutoTestCaptureTime;1;1;2;1;1;1;1;1;1;1;1;1;1;1;1;1;0.4;1;1;1;1;0.4;0.4;0.4;0.4;0.4;1;0.4;1;0.4;1;0.4;1;0.4;0.3;0.4;0.3;0.4;1;0.4;0.4;1;2;1;2;1
+AutoTestRunAt;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Wait Until;Wait Until;Wait Until;Capture Ended;Capture Ended;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Wait Until;Capture Ended;Wait Until;Capture Ended;Capture Ended;Capture Ended
+AutoTestSource;NG;NG;NG;NG;Ottotest;Ottotest;NG;NG;NG;NG;Ottotest;Ottotest;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG
+AutoTestSelectedModule;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0
+AutoTestMessageTimeout;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+AutoTestBathTest;
+AutoTestOttotestAction;None;;;None;;;None;;;None;;;None;;;None;;;CloseOttotest;;;None;;;ClearDTC;;;CloseOttotest;;;None;;;None;;;CloseOttotest;;;ClearDTC;;;CloseOttotest;;;None;;;Actuator;Pump;Set;Actuator;Pump;Not Set;CloseOttotest;;;ClearDTC;;;CloseOttotest;;;Actuator;Left Front Inlet Valve (Normally Open);Energized;Actuator;Left Front Inlet Valve (Normally Open);Deenergized;Actuator;Left Front Outlet Valve (Normally Closed);Energized;Actuator;Left Front Outlet Valve (Normally Closed);Deenergized;Actuator;Left Rear Inlet Valve (Normally Open);Energized;Actuator;Left Rear Inlet Valve (Normally Open);Deenergized;Actuator;Left Rear Outlet Valve (Normally Closed);Energized;Actuator;Left Rear Outlet Valve (Normally Closed);Deenergized;Actuator;Right Front Inlet Valve (Normally Open);Energized;Actuator;Right Front Inlet Valve (Normally Open);Deenergized;Actuator;Right Front Outlet Valve (Normally Closed);Energized;Actuator;Right Front Outlet Valve (Normally Closed);Deenergized;Actuator;RR Inlet Valve (Normally Open);Energized;Actuator;RR Inlet Valve (Normally Open);Deenergized;Actuator;RR Outlet Valve (Normally Closed);Energized;Actuator;RR Outlet Valve (Normally Closed);Deenergized;Actuator;Traction Control Outlet Valve #1 (Normally Open);Energized;Actuator;Traction Control Outlet Valve #1 (Normally Open);Deenergized;Actuator;Traction Control Outlet Valve #2 (Normally Open);Energized;Actuator;Traction Control Outlet Valve #2 (Normally Open);Deenergized;CloseOttotest;;;CloseOttotest;;;ClearDTC;;;CloseOttotest;;;None;;
+OttotestVehicleSelection;Manufacturer;CHRYSLER;False;Id;5449;True;Year;2008;True;VIN10;8;True;Vehicle Type;MPV;True;Make;Dodge;True;VIN2;D;True;Model;Caravan/Grand Caravan;True;VIN3;4;True;Body Code;RT;True;VIN5;N;True;Engine;3.8L;True;VIN8;L;True;Protocol;6;True;Module Hardware;CAN;True;Engine Application;CAN;True;Fuel System;V6 SMPI DIS;True;Model Year;2008;True;Appended;False;True;Category;Chassis;False;Module;Electronic Stability Program / Anti Lock Brakes;False
+OttotestParametersSelection;20;Datastream;Mode;PID;Category;Size;Description-english;Config;Formula;SEVstate;Signed;Unit;Min;Max;Graph;StepMode;Appended;GraphMin;GraphMax;Response;Value;08eti_ABS_Var07_Ver04_Min003;1A;9F;;1B;# of Active Logical Blocks *;;x;HEX(2,2);;;;;;;False;;;9F 01 00 22 07 10 11 22 22 22 22;;08eti_ABS_Var07_Ver04_Min003;1A;9A;;1B;# of Active Logical Blocks;;x[2];;False;;1;250;-1;;False;;;9A 01 00 22 07 10 11 22 22 22 22;;08eti_ABS_Var07_Ver04_Min003;1A;9C;98;1B;# of Modules *;;x;HEX(1,1);;;;;;;False;;;9C 01 03 22 07 04 FF 07 00 03 30 30 30 32 35 31 35 39 32 31;;08eti_ABS_Var07_Ver04_Min003;1A;9A;;1B;# of Modules;;x[1];;False;;0;250;-1;;False;;;9A 01 00 22 07 10 11 22 22 22 22;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;3 Channel System;;(x[2]>>2)&1;0 False@1 True;;;;;-1;-1;False;;;EA A0 80 00 00;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;ABS Only;;(x[1]>>0)&1;0 False@1 True;;;;;-1;-1;False;;;EA A0 80 00 00;;08eti_ABS_Var07_Ver04_Min003;21;14;90;1B;ABS Pump Feed;1081,1083;x[2]*0.1;;False;Volts;5;18;-1;;False;;;14 41 FF 32;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Adaptive Cruise Control;;(x[3]>>5)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;54;18;1b;Allow ESP Torque Request;1090,1092;(x[1]>>1)&1;0 Not Set@1 Set;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Analog Valves;;(x[3]>>7)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;ASR;;(x[1]>>2)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;2B;Axle Ratio;;((x[5]<<8)+x[6])*0.001;;False;;0;65;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Block Sequence Counter;;(x[3]>>6)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;BLS1 HW;;(x[2]>>5)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;BLS2 Bus;;(x[3]>>0)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;BLS2 HW;;(x[2]>>6)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E5;103;1B;Body Style;;x[3];0 Not Initialized@1 4-Door Sedan@10 2-Door sedan@11 Convertible@100 Station Wagon@101 4-Door Hatchback@11111111 SNA / Not Programmed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Bootloader Mode Flag Status;;(x[2]>>0)&1;0 Application Mode@1 Bootloader Mode;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Bosch System;;(x[1]>>6)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Brake Fluid Switch;;(x[2]>>3)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;53;19;2b;Brake Pedal Status;;(x[1]>>0)&3;00 Brake Off@01 Brake On@10 Not Defined@11 Signal Not Available;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;56;147;1b;Brake Pressure Sensor State;1085,1087;(x[2]>>0)&1;0 Not Pressed@1 Pressed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;54;18;2b;Brake Switch 1 (Primary Bus Switch);1093;(x[2]>>0)&3;00 Brake Off@01 Brake On@10 Not Defined@11 Signal Not Available;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;56;147;1b;Brake Switch Status;;(x[1]>>1)&1;0 Not Pressed@1 Pressed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;3b;Brake Type;;(x[2]>>3)&7;000 Type 0@001 Type 1@010 Type 2@011 Type 3@100 Type 4@101 Type 5@110 Type 6@111 Type 7;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;1b;Brake Type Modifier;;(x[2]>>6)&1;0 Not Set@1 Set;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;BTCS;;(x[1]>>3)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;CAN Driver Version *;;x;HEX(5,6);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Compression;;(x[3]>>5)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Conti Teves System;;(x[1]>>5)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E5;103;1B;Country Code;;x[4];0 Rest of World@10 USA@11 Europe@100 Canada@101 England@110 Japan@111 Germany@1000 Switzerland@1001 Malaysia@1010 Australia@1011 Indonesia@1100 Gulf coast Countries@1101 Venezuela@1110 Mexico@1111 Brazil@10000 China@11111111 Not Programmed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;DBKOM Version *;;x;HEX(13,14);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EB;;1B;DCX Flash Reprogramming Requirements Version;;x[2];100001 KWP2000 V2.1@100010 KWP2000 V2.2@100011 KWP2000 V2.3@110000 Flash Reprogramming V3.0@110001 Flash Reprogramming V3.1@11111111 Not Applicable;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EB;;1B;DCX KWP2000 Requirements Version;;x[1];100001 KWP2000 V2.1@100010 KWP2000 V2.2@100011 KWP2000 V2.3@110000 Flash Reprogramming V3.0@110001 Flash Reprogramming V3.1@11111111 Not Applicable;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;1B;Diagnostic Version *;;x;HEX(4,4);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9E;;1B;Diagnostic Version *;;x;HEX(5,5);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;Diagnostic Version *;;x;HEX(9,10);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;51;19;2B;Distance Traveled by Left Wheel;;((x[3]<<8)+x[4])*4;;False;cm;0;262000;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;51;19;2B;Distance Traveled by Right Wheel;;((x[5]<<8)+x[6])*4;;False;cm;0;262000;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;1B;Drive Configuration;;x[1];0 2WD Front@1 2WD Rear@10 All Wheel Drive@11 Selectable 4wd@11111111 SNA / Not Programmed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;50;105;1b;Drive Test Complete;1085,1087;(x[1]>>2)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;2B;Dynamic Tire Circumference;;((x[3]<<8)+x[4]);;False;mm;0;65500;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EB;;1B;ECU Diagnostic Level Supported *;;x;HEX(3,3);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;1B;ECU Origin;;x[1]&7;1 DCS@10 DCA@11 DCX@100 MMC@101 MMC / Smart;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;10B;ECU Part Number *;;x;ASCII(11,20);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E1;103;14B;ECU Serial Number *;1092;x;ASCII(1,14);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;70;98;1b;Emission Rolls Mode;;(x[1]>>0)&1;0 Disabled@1 Enabled;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Encryption;;(x[3]>>4)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;1B;Engine Displacement;;x[7]*0.1;;False;;0;25;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;ESP;;(x[1]>>7)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;ESP with Active Booster;;(x[2]>>0)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Fault Reporting;;(x[3]>>0)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1B;Flash Document Version Number *;;x;HEX(1,1);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;2B;Hardware Version (Major/Minor) *;;x;HEX(6,7);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Hill Descent;;(x[3]>>4)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Hydraulic Boost Compensation;;(x[3]>>6)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;07;38;1b;Ignition Sense;;(x[1]>>7)&1;0 Not Set@1 Set;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;50;105;1b;Initialization Complete;;(x[1]>>0)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;In-Progress Flag Status;;(x[2]>>1)&1;0 Flash Process not in Progress@1 Flash Process in Progress;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;02;53;2B;Lateral Acceleration;1085,1087;((x[6]<<8)+x[7])*0.001;;True;g;-30;30;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;05;90;2B;Lateral Acceleration Offset, Dynamic Data;1115,1117;((x[6]<<8)+x[7])*0.0001;;True;g;-3;3;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;04;132;2B;Lateral Acceleration Offset, Saved Data;1115,1097;((x[6]<<8)+x[7])*0.0001;;True;g;-3;3;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;01;179;2B;LF Wheel Speed;1081;((x[1]<<8)+x[2])*0.01;;False;km/h;0;200;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;52;19;2B;LF Wheel Speed;;((x[1]<<8)+x[2])*0.5;;False;RPM;0;8000;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Long Accel Sensor;;(x[2]>>4)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;01;179;2B;LR Wheel Speed;1084;((x[5]<<8)+x[6])*0.01;;False;km/h;0;200;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1B;Max Number of Flash Reprogramming Attempts;;x[5];;False;;0;250;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;Microcontroller;;(x[1]<<8)+x[2];0 Undefined@1 HC08@10 HC12@11 STAR 12@100 ST9@101 Spanish Oak@110 Black Oak@111 ST7@1000 M16C-6NX@1001 PPC@1010 X-Core@1011 H8S / 2612@1100 HC9@1101 NEC V850@1110 MB90387 (Fujitsu)@10000 SH7055SF@10001 ST10@10010 CARGATE-F@10011 Green Oak@10100 Silver Oak@10101 Golden Oak@10110 SH7047@10111 C164CI@11000 Harrier MGT560@11001 TC1765@11010 Fujitsu MB90F548@11011 MC33889@11100 TC1796 TriCore@11101 C167CS-LM@11110 TC1766 TriCore@110000 V850E / IA1@110001 uPD780814GC@110010 78K0816@110011 78K0818@110100 MB90549@110101 MB90598@110110 MB90022(16LX)@110111 ST72F521@111000 TI CUSTOM IC (Based on TMS470)@111001 HD6432612@111010 FMH8302(M32R)@111011 MH8302F@111100 M306NBMCT@111101 TI CUSTOM IC (Based on MCU60)@111110 M30810MCT@111111 H8S / 2646@1000000 MH8303F@1000001 SH7055@1000010 uPD78F0828@1000011 MH8102F@1000100 H8S / 2638@1000101 H8s / 2647@1000110 HD6437393@1000111 TMP1984FDF@1001000 M16C / 6N@1001001 M16C / 1N@1010000 Windsor@1100000 Motorola Copperhead-MPC5554@1100001 Motorola Moccasin-MPC5553@1100010 Renisas M32-C83@1100011 H8SX@1100100 TMS448@1100101 Infineon XC164CS@1111111111111111 Not Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E5;103;1B;Model Year *;;x;HEX(1,1);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;NM Version *;;x;HEX(7,8);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;67;98;10B;Part Number *;;x;ASCII(1,10);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;PCM BLS;;(x[2]>>7)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;03;18;2b;PCM Brake Switch, (PCM);1093;(x[6]>>0)&3;00 Brake Off@01 Brake On@10 Not Defined@11 Signal Not Available;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Permanent Disable;;(x[4]>>0)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;14;90;1B;Power Supply Voltage;;x[1]*0.1+5;;False;Volts;5;18;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;02;53;2B;Pressure Sensor;1085,1087;((x[4]<<8)+x[5])*0.01;;True;bar;-320;320;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;05;90;2B;Pressure Sensor Offset, Dynamic Data;1115,1117;((x[4]<<8)+x[5])*0.000625;;True;bar;-20;20;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;04;132;2B;Pressure Sensor Offset, Saved Data;1115,1097;((x[4]<<8)+x[5])*0.000625;;True;bar;-20;20;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;;1b;Production / Development;;(x[3]>>7)&1;0 Production@1 Development;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9A;;3B;Programming Date (Year/Month/Day) *;;x;HEX(4,6);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Rear Diff Sensor;;(x[2]>>1)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1B;Reprogramming Attempt Counter;;x[4];;False;;0;250;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;01;179;2B;RF Wheel Speed;1081,1083;((x[3]<<8)+x[4])*0.01;;False;km/h;0;200;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;52;19;2B;RF Wheel Speed;;((x[3]<<8)+x[4])*0.5;;False;RPM;0;8000;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;52;19;2B;RL Wheel Speed;;((x[5]<<8)+x[6])*0.5;;False;RPM;0;8000;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;50;105;1b;Rolls Complete;;(x[1]>>3)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;61;;1B;Rolls Status;;x[1]&127;0 Rolls Complete@1010101 Rolls Not Complete;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;01;179;2B;RR Wheel Speed;;((x[7]<<8)+x[8])*0.01;;False;km/h;0;200;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;52;19;2B;RR Wheel Speed;;((x[7]<<8)+x[8])*0.5;;False;RPM;0;8000;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;RWAL;;(x[1]>>4)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;RWAL with ETC;;(x[3]>>2)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;50;105;1b;SAS Initialization Complete;1085,1087;(x[1]>>1)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1B;Security Class;;x[6]&15;0 No Security Class Supported@1 Security Class C@10 Security Class CC@11 Security Class CCC@100 Security Class B@101 Security Class BB@110 Security Class BBB@111 Security Class A@1000 Security Class AA@1001 Security Class AAA;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E1;103;12B;Serial Number *;1092;x;ASCII(1,12);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Signature;;(x[3]>>3)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9E;;10B;Software (Boot) Part Number *;;x;ASCII(10,19);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9C;98;10B;Software (Code) Part Number *;;x;ASCII(10,19);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Software Interlock 1;;(x[3]>>1)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E4;;1b;Software Interlock 2;;(x[3]>>2)&1;0 Not Supported@1 Supported;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;3B;Software Version (Major/Middle/Minor) *;;x;HEX(8,10);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9E;;3B;Software Version (Major/Middle/Minor) *;;x;HEX(7,9);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;66;90;2b;Status, Evac and Fill;;(x[1]>>0)&3;00 Not Performed@01 EVAC and Fill Initiated@10 EVAC and Fill Completed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;02;53;2B;Steering Angle Sensor Position;1085,1087;((x[1]<<8)+x[2])*0.04375;;True;ø;-720;720;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;1B;Supplier ID;;x[2]&63;11 Bosch@100010 Teves@100111 TRW;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;65;30;3b;Suspension Type;;(x[2]>>0)&7;000 Type 0@001 Type 1@010 Type 2@011 Type 3@100 Type 4@101 Type 5@110 Type 6@111 Type 7;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;TCS/ESP Switch H/W;;(x[3]>>1)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9A;;4B;Tester Serial Number *;;x;HEX(7,10);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;60;160;2B;Tire Size;;((x[1]<<8)+x[2]);;False;mm;0;65500;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9A;;1B;Tool Supplier ID *;;x;HEX(3,3);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;Trailer Sway Mitigation;;(x[3]>>3)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;Transport Layer Version *;;x;HEX(11,12);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;EA;30;1b;TRW System;;(x[1]>>1)&1;0 False@1 True;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;14;90;1B;Valve Feed;;x[3]*0.1+5;;False;Volts;5;18;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;87;98;7b;Variant ID;;(x[3]>>0)&127;0000110 06: ABS/RWAL/ESP/ASR@0000111 07: ABS/RWAL/ESP/ASR@0001000 08: ABS/RWAL/ESP/ASR@0001001 09: ABS/RWAL/ESP/ASR;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;9E;;7b;Variant ID;;(x[4]>>0)&127;0000110 06: ABS/RWAL/ESP/ASR@0000111 07: ABS/RWAL/ESP/ASR@0001000 08: ABS/RWAL/ESP/ASR@0001001 09: ABS/RWAL/ESP/ASR;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E5;103;1B;Vehicle Line;;x[2];0 Not Initialized@1 WK@10 LX@11 HB@100 ND@101 PM@110 JS@111 MK@1000 3H@1001 D@1010 NM@1011 PT@1100 RV@1101 XK@1110 DR@1111 KJ@10000 CS@10001 JK@10010 KA@10011 KK@10100 RT@10101 CT@10110 JC@10111 PV@11000 ZB@11001 HG@11010 Sprinter@11011 RM@11100 J8@11101 DS@11111111 Not Programmed;;;;;-1;-1;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;51;19;2B;Vehicle Speed;;((x[1]<<8)+x[2])*0.0078125;;False;km/h;0;200;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;90;98;17B;VIN (Current) *;;x;ASCII(1,17);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;1A;88;98;17B;VIN (Original) *;;x;ASCII(1,17);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;E0;;2B;VMM Version *;;x;HEX(3,4);;;;;;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;05;90;1B;Yaw Rate Offset, Dynamic Data;1115,1117;x[3]*0.0732;;True;ø/s;-9;9;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;04;132;1B;Yaw Rate Offset, Saved Data;1115,1097;x[3]*0.0732;;True;ø/s;-9;9;-1;;False;;;;;08eti_ABS_Var07_Ver04_Min003;21;02;53;1B;Yaw Sensor;1085,1087;x[3]*0.59;;True;ø/s;-74;74;-1;;False;;;;
+OttotestActuatorsSelection;Pump;Set;Not Set;;;;;;;;;Left Front Inlet Valve (Normally Open);Energized;;;;;;;;;;Left Front Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;Left Rear Inlet Valve (Normally Open);Energized;Deenergized;;;;;;;;;Left Rear Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;Low Pressure Feed Valve #1 (Normally closed);Energized;Deenergized;;;;;;;;;Right Front Inlet Valve (Normally Open);Energized;Deenergized;;;;;;;;;Right Front Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;Low Pressure Feed Valve #2(Normally closed);Energized;Deenergized;;;;;;;;;RR Inlet Valve (Normally Open);Energized;Deenergized;;;;;;;;;RR Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;Traction Control Outlet Valve #1 (Normally Open);Energized;Deenergized;;;;;;;;;Traction Control Outlet Valve #2 (Normally Open);Energized;Deenergized;;;;;;;;
+OttotestActuatorsIISelection;
+OttotestMiscellaneousSelection;
+OttotestDTCSelection;
+OttotestVehicleSelection2;Manufacturer;CHRYSLER;False;Id;5859;True;Year;2009;True;VIN10;9;True;Vehicle Type;MPV;True;Make;Dodge;True;VIN2;D;True;Model;Caravan/Grand Caravan;True;VIN3;4;True;Body Code;RT;True;VIN5;N;True;Engine;3.3L;True;VIN8;E;True;Vehicle Transmission Datastream;FWD;True;Protocol;6;True;Module Hardware;CAN;True;Engine Application;NGC4;True;Fuel System;V6 SMPI DIS OHV;True;Fuel Type;NOT AVAIL;True;Model Year;2009;True;Appended;False;True;Category;Chassis;False;Module;Electronic Stability Program / Anti Lock Brakes;False
+OttotestParametersSelection2;20;Datastream;Mode;PID;Category;Size;Description-english;Config;Formula;SEVstate;Signed;Unit;Min;Max;Graph;StepMode;Appended;GraphMin;GraphMax;Response;Value;10eti_KWP_ABS_07_04_008;21;02;;2;Pressure Sensor;2731;((x[4]<<8)+x[5])*0.01;;True;bar;-328;328;-1;0;False;;;;
+OttotestActuatorsSelection2;Low Pressure Feed Valve #1 (Normally closed);Deenergized;Energized;;;;;;;;;Low Pressure Feed Valve #2(Normally closed);Deenergized;Energized;;;;;;;;;Right Front Inlet Valve (Normally Open);Deenergized;Energized;;;;;;;;;Right Front Outlet Valve (Normally Closed);Deenergized;Energized;;;;;;;;;Pump;Not Set;Set;;;;;;;;;Left Front Inlet Valve (Normally Open);Deenergized;Energized;;;;;;;;;Left Front Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;Left Rear Inlet Valve (Normally Open);Energized;Deenergized;;;;;;;;;Left Rear Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;RR Inlet Valve (Normally Open);Energized;Deenergized;;;;;;;;;RR Outlet Valve (Normally Closed);Energized;Deenergized;;;;;;;;;Traction Control Outlet Valve #1 (Normally Open);Energized;Deenergized;;;;;;;;;Traction Control Outlet Valve #2 (Normally Open);Energized;Deenergized;;;;;;;;
+OttotestActuatorsIISelection2;
+OttotestDTCSelection2;
+LinkInputValues1;False;;;;;;
+LinkInputValues2;False;;;;;;
+LinkInputValues3;False;;;;;;
+LinkInputValues4;False;;;;;;
+LinkInputValues5;False;;;;;;
+LinkInputValues6;False;;;;;;
+LinkInputValues7;False;;;;;;
+LinkInputValues8;False;;;;;;
+LinkInputValues9;False;;;;;;
+LinkInputValues10;False;;;;;;
+LinkInputValues11;False;;;;;;
+LinkInputValues12;False;;;;;;
+

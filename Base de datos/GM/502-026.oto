@@ -1,0 +1,418 @@
+InfoDesginInformationFileName;502-026
+InfoDesginInformationDesginedBy;Orlando
+InfoDesginInformationDate;2/25/2016 3:08:34 PM
+InfoDesginInformationImageFolder;
+InfoDesginInformationImageName;
+InfoDesginInformationModuleInfo0;Dorman;502-026;GM;;;;;;;;;;;;;;;;;
+InfoDesginInformationHarnessUniversal;;;
+InfoDesginInformationHarness1;;;
+InfoDesginInformationHarness2;;;
+InfoDesginInformationHarness3;;;
+SwGnd1;True;A8;wiper high;wiper high speed sw;Switch;gnd;0.6;Normally Open
+SwGnd2;True;A11;turn left;turn left sig sw;Switch;gnd;0.6;Normally Open
+SwGnd3;True;A12;turn rigth;turn rigth sig sw;Switch;gnd;0.6;Normally Open
+SwGnd4;True;A13;high beam;high beam lamp sw;Switch;gnd;0.6;Normally Open
+SwGnd5;True;A14;hazard sw;hazard sw sig;Switch;gnd;0.6;Normally Open
+SwGnd6;True;A30;auto disble;tow/haul sw;Switch;gnd;0.6;Normally Open
+SwGnd7;True;A31;widshl wash;windshield washer;Switch;gnd;0.6;Normally Open
+SwGnd8;True;A32;flash sw;flash to pass switch;Switch;gnd;0.6;Normally Open
+SwGnd9;True;A33;park brake;park brake sw;Switch;gnd;0.6;Normally Open
+SwGnd10;True;B8;headlamps;headlamps on sw;Switch;gnd;0.6;Normally Open
+Sw12V1;False;A7;;;Switch;12v;0.6;Normally Open
+Sw12V2;False;A26;;;Switch;12v;0.6;Normally Open
+Sw12V3;False;B7;;;Switch;12v;0.6;Normally Open
+SwConfigurable1;True;B11;headlmps off;headlamps off;Switch;gnd;0.6;Normally Open
+SwConfigurable2;True;B12;court lmps;courtesy lamps lamp sw;Switch;gnd;0.6;Normally Open
+SwConfigurable3;True;B13;traction ctrl;traction control sw;Switch;gnd;0.6;Normally Open
+SwConfigurable4;True;B14;interior lmps;interior lamps sw;Switch;gnd;0.6;Normally Open
+SwConfigurable5;True;B15;fog lamp;fog lamp sw;Switch;gnd;0.6;Normally Open
+SwConfigurable6;True;B26;wndshld wiper;windshield wipers park;Switch;gnd;0.6;Normally Open
+SwConfigurable7;True;B30;hood ajar ;hood ajar sw;Switch;gnd;0.6;Normally Open
+SwConfigurable8;True;B31;hood closed;hood closed sw signal;Switch;gnd;0.6;Normally Open
+SwConfigurable9;True;B32;park brk;park brake sw sig;Switch;gnd;0.6;Normally Open
+SwConfigurable10;True;B33;liftgate ajar;liftgate ajar sw;Switch;gnd;0.6;Normally Open
+SwConfigurable11;True;S11;rf door ajar;rf door ajar sw;Switch;gnd;0.6;Normally Open
+SwConfigurable12;True;S12;pasdoor lock;pass door lock sw;Switch;gnd;0.6;Normally Open
+SwConfigurable13;True;S24;lf door ajar ;lf door ajar sw;Switch;gnd;0.6;Normally Open
+SwConfigurable14;True;S25;rr door ajar;rr door ajar sw;Switch;gnd;0.6;Normally Open
+SwFreeHands1;False;A9,A27;;;;Switch;0.6;Normally Open
+SwFreeHands2;False;B9,B27;;;;Switch;0.6;Normally Open
+SwFreeHands3;False;S7,S20;;;;Switch;0.6;Normally Open
+SwFreeHands4;False;S8,S21;;;;Switch;0.6;Normally Open
+SwFreeHands5;False;S10,S22;;;;Switch;0.6;Normally Open
+SwFreeHands6;False;S9,S23;;;;Switch;0.6;Normally Open
+D2A1;True;A3;ign key pos;ign off/run/crank;Volt;Formula;x;0;5;1
+D2A2;True;A4;cruise ctrl;cruise control sw;Volt;Formula;x;0;5;1
+D2A3;True;A5;steer whl;steer whel vol ctrl;Volt;Formula;x;0;5;1
+D2A4;True;A6;widshld wpr;windshied wiper sw;Volt;Formula;x;0;5;1
+D2A5;True;A22;tap up/dwn;tap up/down;Volt;Formula;x;0;5;1
+D2A6;True;A23;day/nigth;ambient ligth;Volt;Formula;x;0;5;1
+D2A7;True;A24;dimmer pnl;instrument dimm pnl;Volt;Formula;x;0;12;1
+D2A8;True;A25;bpp;brake pedal pos;Volt;Formula;x;0;12;1
+D2A9;True;B3;current volt;current sensor;Volt;Formula;x;0;5;1
+D2A10;True;B4;lr door ajar;lr door ajar sw;Volt;Formula;x;0;5;1
+D2A11;True;B5;passdoor sw;pass door lock sw;Volt;Formula;x;0;5;1
+D2A12;True;B6;driver key ;driver door key sw;Volt;Formula;x;0;5;1
+D2A13;True;B22;handle sw;handle sw open;Volt;Formula;x;0;5;1
+D2A14;True;B23;driver unlck;driver unlock sw;Volt;Formula;x;0;5;1
+D2A15;True;B24;driver lock sw;driver lock sw;Volt;Formula;x;0;5;1
+D2A16;False;B25;;;Volt;Formula;x;0;5;1
+D2A17;False;S1;;;Volt;Formula;x;0;5;1
+D2A18;False;S15;;;Volt;Formula;x;0;5;1
+D2A19;False;S2;;;Volt;Formula;x;0;5;1
+D2A20;False;S14;;;Volt;Formula;x;0;5;1
+D2A21;False;S5;;;Volt;Formula;x;0;5;1
+D2A22;False;S19;;;Volt;Formula;x;0;5;1
+D2A23;False;S6;;;Volt;Formula;x;0;5;1
+D2A24;False;S18;;;Volt;Formula;x;0;5;1
+D2A25;False;S3;;;Volt;Formula;x;0;5;1
+D2A26;False;S4;;;Volt;Formula;x;0;5;1
+D2A27;False;S16;;;Volt;Formula;x;0;5;1
+D2A28;False;S17;;;Volt;Formula;x;0;5;1
+freq1;False;A18;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq2;False;A19;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq3;False;A36;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq4;False;A37;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq5;False;B18;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq6;False;B19;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq7;False;B36;;;Hz;Formula;;0;1000;50;Step;2;0.2
+freq8;False;B37;;;Hz;Formula;;0;1000;50;Step;2;0.2
+pot1;False;A1;;;Volt;Formula;;0;1000
+pot2;False;A2;;;Volt;Formula;;0;1000
+pot3;False;A20;;;Volt;Formula;;0;1000
+pot4;False;A21;;;Volt;Formula;;0;1000
+pot5;False;B1;;;Volt;Formula;;0;1000
+pot6;False;B2;;;Volt;Formula;;0;1000
+pot7;False;B20;;;Volt;Formula;;0;1000
+pot8;False;B21;;;Volt;Formula;;0;1000
+waveNames;Sync;Crank;Cam1;;;;;
+waveComment;
+waveCheckBox;False;False;False;False;False;False;False;False
+waveColumn1;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn2;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn3;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn4;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn5;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn6;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn7;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveColumn8;000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+waveDisplayRPM;True
+IndicatorsL12V1;False;C9;1k;;;On;Off
+IndicatorsL12V2;False;C10;1k;;;On;Off
+IndicatorsL12V3;False;C11;1k;;;On;Off
+IndicatorsL12V4;True;C27;1k;current low;current low ref;On;Off
+IndicatorsL12V5;True;C28;1k;bpp low;bpp low ref;On;Off
+IndicatorsL12V6;True;C29;1k;wiper sw low;wiper low ref;On;Off
+IndicatorsL12V7;True;C14;100Ω;park lamps;park lamps rly ctrl;On;Off
+IndicatorsL12V8;True;C15;100Ω;wndshield wpr;windshield wpr hi ;On;Off
+IndicatorsL12V9;True;C16;100Ω;drl relay;drl relay ctrl;On;Off
+IndicatorsL12V10;True;C17;100Ω;wndshld wash;windshiel washer rly;On;Off
+IndicatorsL12V11;True;C18;100Ω;R trailer sig;right trailer turn sig;On;Off
+IndicatorsL12V12;True;C19;100Ω;cruise led;cruise led ind;On;Off
+IndicatorsL12V13;True;C32;100Ω;driver unlk;driver unlock rly;On;Off
+IndicatorsL12V14;True;C33;100Ω;low beams;low beams rly33;On;Off
+IndicatorsL12V15;True;C34;100Ω;horn rly;horn rly ctrl;On;Off
+IndicatorsL12V16;True;C35;100Ω;H beam rly;high beam rly;On;Off
+IndicatorsL12V17;True;C36;100Ω;L trailer sig;left trailer turn sig;On;Off
+IndicatorsL12V18;True;C37;100Ω;fog lmp rly;fog lamp relay;On;Off
+IndicatorsL12V19;False;C12;200Ω;;;On;Off
+IndicatorsL12V20;True;C13;200Ω; drl sup volt;drl supply volt;On;Off
+IndicatorsL12V21;False;C30;200Ω;;;On;Off
+IndicatorsL12V22;True;C31;200Ω;doors unlck;doors unlock;On;Off
+IndicatorsL12V23;False;C'10;100Ω;;;On;Off
+IndicatorsL12V24;False;C'11;100Ω;;;On;Off
+IndicatorsL12V25;False;C'12;100Ω;;;On;Off
+IndicatorsL12V26;False;C'13;100Ω;;;On;Off
+IndicatorsL12V27;False;C'14;100Ω;;;On;Off
+IndicatorsL12V28;False;C'15;100Ω;;;On;Off
+IndicatorsL12V31;False;C'18;100Ω;;;On;Off
+IndicatorsL12V32;False;C'19;100Ω;;;On;Off
+IndicatorsL12V33;False;C'28;100Ω;;;On;Off
+IndicatorsL12V34;False;C'29;100Ω;;;On;Off
+IndicatorsL12V35;False;C'30;100Ω;;;On;Off
+IndicatorsL12V36;False;C'31;100Ω;;;On;Off
+IndicatorsL12V37;False;C'32;100Ω;;;On;Off
+IndicatorsL12V38;False;C'33;100Ω;;;On;Off
+IndicatorsL12V41;False;C'36;100Ω;;;On;Off
+IndicatorsL12V42;False;C'37;100Ω;;;On;Off
+IndicatorsLGND1;True;C6;200Ω;instr pnl vol;instrument panel volt;On;Off
+IndicatorsLGND2;True;C7;200Ω;court lmps high ;courtesy lamp high ctrl;On;Off
+IndicatorsLGND3;True;C24;200Ω;L turn ind;left turn ind lamp;On;Off
+IndicatorsLGND4;True;C25;200Ω;R turn ind;rigth turn ind lamp;On;Off
+IndicatorsLGND5;True;C8;100Ω;shift lock;A/T shift lock;On;Off
+IndicatorsLGND6;True;C26;100Ω;led dimmer;led diming signal;On;Off
+IndicatorsLGND7;True;C'6;100Ω;L stop/turn;left stop/turn lamp;On;Off
+IndicatorsLGND8;True;C'7;100Ω;R stop/turn;rigth stop/turn lamp;On;Off
+IndicatorsLGND9;True;C'8;100Ω;stop lmp volt;stop lamp voltage;On;Off
+IndicatorsLGND10;True;C'9;100Ω;wnd shld wpr 2;windshield wpr 2;On;Off
+IndicatorsLGND11;True;C'24;100Ω;back up lmps;back up lamps voltage;On;Off
+IndicatorsLGND12;True;C'25;100Ω;panel dimm;instrument panel volt;On;Off
+IndicatorsLGND13;True;C'26;100Ω;driver lock rly ;driver lock rly;On;Off
+IndicatorsLGND14;True;C'27;100Ω;led dimmin;led dimming signal;On;Off
+IndicatorsConfigurable01;True;C'16;100Ω;stop lmp sup;stop lamp supply;On;Off;gnd
+IndicatorsConfigurable02;False;C'17;100Ω;;;On;Off;gnd
+IndicatorsConfigurable03;False;C'34;100Ω;;;On;Off;gnd
+IndicatorsConfigurable04;False;C'35;100Ω;;;On;Off;gnd
+IndicatorsHigh1;False;C'4;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsHigh2;False;C'5;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsHigh3;False;C'22;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsHigh4;False;C'23;25Ω 10W (0.5A);;;On;Off;12v
+IndicatorsStep1;False;C5;C23;200Ω Positive;200Ω Negative;;;On;Off
+IndicatorsStep2;False;C4;C22;200Ω Positive;200Ω Negative;;;On;Off
+IndicatorsStep3;False;C3;C21;200Ω Positive;200Ω Negative;;;On;Off
+IndicatorsStep4;True;C2;C20;200Ω Positive;200Ω Negative;lift gate;lift gate;On;Off
+IgnitorsType;High Voltage
+IgnitorsState1;False;G25;Ign1
+IgnitorsState2;False;G24;Ign2
+IgnitorsState3;False;G23;Ign3
+IgnitorsState4;False;G22;Ign4
+IgnitorsState5;False;G21;Ign5
+IgnitorsState6;False;G20;Ign6
+IgnitorsState7;False;G13;Ign7
+IgnitorsState8;False;G12;Ign8
+IgnitorsState9;False;G11;Ign9
+IgnitorsState10;False;G10;Ign10
+InjectorsType;High Current
+InjectorsState1;False;E25 / F25;Inj1
+InjectorsState2;False;E24 / F24;Inj2
+InjectorsState3;False;E23 / F23;Inj3
+InjectorsState4;False;E22 / F22;Inj4
+InjectorsState5;False;E21 / F21;Inj5
+InjectorsState6;False;E20 / F20;Inj6
+InjectorsState7;False;E13 / F13;Inj7
+InjectorsState8;False;E12 / F12;Inj8
+InjectorsState9;False;E11 / F11;Inj9
+InjectorsState10;False;E10 / F10;Inj10
+pwm1;True;D3;0;line net;line network
+pwm2;False;D4;0;;
+pwm3;False;D5;0;;
+pwm4;False;D6;0;;
+pwm5;False;D7;0;;
+A2D1;True;D27;heat seat sply;heat seat ind dimm;Volt
+A2D2;True;-;PS Voltage;PS Voltage;Volt
+A2D3;True;-;ECU Current;ECU Current;A
+A2D4;True;D21;12 V ref A;12V ref A;Volt
+A2D5;True;D22;courtesy lmps;courtesy lamps volts;Volt
+A2D6;True;D23;12 V ref B;12V ref B ;Volt
+A2D7;True;D24;abs/fp ignition;serial data enable;Volt
+A2D8;True;D25;ign volt 1;ignition voltage 1;Volt
+A2D9;True;D26;ign volt 2;ignition voltage 2;Volt
+A2D10;True;D28;rear wiper sply;rear wiper supply ;Volt
+A2D11;True;D29;ign volt 3;ignition voltage 3;Volt
+A2D12;True;D30;5V ref current;currenten sensor voltage ref;Volt
+A2D13;True;D31;5V ref ign key;ign key resistor sig;Volt
+A2D14;True;D32;5V ref;5V ref;Volt
+A2D15;False;D33;;;Volt
+A2D16;False;D34;;;Volt
+SpecialDigitalTransmissionMainSwitch;False
+SpecialDigitalTransmissionSwitchValues;N/A;N/A;N/A;N/A;N/A
+SpecialDigitalTransmission1;False;P;;;;;
+SpecialDigitalTransmission2;False;R;;;;;
+SpecialDigitalTransmission3;False;N;;;;;
+SpecialDigitalTransmission4;False;D;;;;;
+SpecialDigitalTransmission5;False;;;;;;
+SpecialDigitalTransmission6;False;;;;;;
+SpecialDigitalTransmission7;False;;;;;;
+SpecialDigitalTransmission8;False;;;;;;
+SpecialAnalogTransmissionMainSwitch;False
+SpecialAnalogTransmissionSelectDac;N/A
+SpecialAnalogTransmission1;False;P;
+SpecialAnalogTransmission2;False;R;
+SpecialAnalogTransmission3;False;N;
+SpecialAnalogTransmission4;False;D;
+SpecialAnalogTransmission5;False;;
+SpecialAnalogTransmission6;False;;
+SpecialAnalogTransmission7;False;;
+SpecialAnalogTransmission8;False;;
+SpecialDigitalCruiseControlMainSwitch;False
+SpecialDigitalCruiseControlSwitchValues;N/A;N/A;N/A;N/A;N/A
+SpecialDigitalCruiseControl1;False;On/Off;;;;;
+SpecialDigitalCruiseControl2;False;Set +;;;;;
+SpecialDigitalCruiseControl3;False;Set -;;;;;
+SpecialDigitalCruiseControl4;False;Cancel;;;;;
+SpecialDigitalCruiseControl5;False;Limit;;;;;
+SpecialDigitalCruiseControl6;False;;;;;;
+SpecialDigitalCruiseControl7;False;;;;;;
+SpecialDigitalCruiseControl8;False;;;;;;
+SpecialAnalogCruiseControlMainSwitch;False
+SpecialAnalogCruiseControlSelectDac;N/A
+SpecialAnalogCruiseControl1;False;On/Off;
+SpecialAnalogCruiseControl2;False;Set +;
+SpecialAnalogCruiseControl3;False;Set -;
+SpecialAnalogCruiseControl4;False;Cancel;
+SpecialAnalogCruiseControl5;False;Limit;
+SpecialAnalogCruiseControl6;False;;
+SpecialAnalogCruiseControl7;False;;
+SpecialAnalogCruiseControl8;False;;
+Special3StateSwitch1;False;;;;False;;;;False;;;;False;;;;False;;;
+Special3StateSwitch2;False;;;;False;;;;False;;;;False;;;;False;;;
+Special3StateSwitch3;False;;;;False;;;;False;;;;False;;;;False;;;
+ManualInputValues;park brake;Open;park brk;Open;ign key pos;4;widshld wpr;5;day/nigth;2;dimmer pnl;1;bpp;1;Battery;On;Ignition;On
+AutoTestInputColumns;Step;Batt;Ign;RPM;wiper high(A8);turn left(A11);turn rigth(A12);high beam(A13);hazard sw(A14);auto disble(A30);widshl wash(A31);flash sw(A32);park brake(A33);headlamps(B8);headlmps off(B11);court lmps(B12);traction ctrl(B13);interior lmps(B14);fog lamp(B15);wndshld wiper(B26);hood ajar (B30);hood closed(B31);park brk(B32);liftgate ajar(B33);rf door ajar(S11);pasdoor lock(S12);lf door ajar (S24);rr door ajar(S25);ign key pos*Volt*(A3);cruise ctrl*Volt*(A4);steer whl*Volt*(A5);widshld wpr*Volt*(A6);tap up/dwn*Volt*(A22);day/nigth*Volt*(A23);dimmer pnl*Volt*(A24);bpp*Volt*(A25);current volt*Volt*(B3);lr door ajar*Volt*(B4);passdoor sw*Volt*(B5);driver key *Volt*(B6);handle sw*Volt*(B22);driver unlck*Volt*(B23);driver lock sw*Volt*(B24)
+AutoTestInputStepsCount;74
+AutoTestInputStepsValues0;1;Off;Off;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+AutoTestInputStepsValues1;2;On;Off;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;0;2;0;0;0;0;0;0;0
+AutoTestInputStepsValues2;3;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;0;2;0;0;0;0;0;0;0
+AutoTestInputStepsValues3;4;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;0;2;0;0;0;0;0;0;0
+AutoTestInputStepsValues4;5;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;0;2;0;0;0;0;0;0;0
+AutoTestInputStepsValues5;6;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;0;2;0;0;0;0;0;0;0
+AutoTestInputStepsValues6;7;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues7;8;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues8;9;On;On;0;Closed;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues9;10;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues10;11;On;On;0;Open;Open;Closed;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues11;12;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues12;13;On;On;0;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues13;14;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues14;15;On;On;0;Open;Open;Open;Open;Open;Open;Closed;Closed;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues15;16;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues16;17;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues17;18;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues18;19;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues19;20;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues20;21;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues21;22;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues22;23;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues23;24;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues24;25;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues25;26;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues26;27;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;5;0;0;0;0;0
+AutoTestInputStepsValues27;28;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;5;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues28;29;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;4;0;0;0;0;0;0;0
+AutoTestInputStepsValues29;30;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;4;0;0;0;0;0;0;0
+AutoTestInputStepsValues30;31;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues31;32;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues32;33;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;5;0;5;0;0
+AutoTestInputStepsValues33;34;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues34;35;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;5;0
+AutoTestInputStepsValues35;36;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues36;37;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;5
+AutoTestInputStepsValues37;38;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;4;0;0;1;0;2;1;1;0;0;0;0;0;0;5
+AutoTestInputStepsValues38;39;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues39;40;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues40;41;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues41;42;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues42;43;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues43;44;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues44;45;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0.7;0.5;0.2;1.2;2;0.5;0.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues45;46;On;On;0;Closed;Closed;Closed;Closed;Closed;Open;Closed;Closed;Open;Open;Closed;Open;Closed;Open;Open;Closed;Open;Open;Closed;Closed;Closed;Open;Open;Open;0;0.7;0.5;0.2;1.2;4.5;0.5;1.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues46;47;On;On;0;Closed;Closed;Closed;Closed;Closed;Open;Closed;Closed;Closed;Closed;Open;Open;Closed;Open;Open;Closed;Open;Open;Closed;Closed;Closed;Open;Open;Open;0;0.7;0.5;0.2;1.2;4.5;0.5;2.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues47;48;On;On;0;Closed;Closed;Closed;Closed;Closed;Open;Closed;Closed;Closed;Closed;Open;Open;Closed;Open;Open;Closed;Open;Open;Closed;Closed;Closed;Open;Open;Open;0;0.7;0.5;0.2;1.2;4.5;0.5;3.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues48;49;On;On;0;Closed;Closed;Closed;Closed;Closed;Open;Closed;Closed;Closed;Closed;Open;Open;Closed;Open;Open;Closed;Open;Open;Closed;Closed;Closed;Closed;Closed;Closed;5;2.5;0.5;0.2;1.2;4.5;0.5;4.5;0.5;0;0;0;0;0;0
+AutoTestInputStepsValues49;50;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;2.8;2;2;4.5;5;5;5;5;5;5;5;5;5
+AutoTestInputStepsValues50;51;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;2.8;2;2;4.5;5;5;5;5;5;5;5;5;5
+AutoTestInputStepsValues51;52;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Closed;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;2.8;2;2;4.5;5;5;5;5;5;5;5;5;5
+AutoTestInputStepsValues52;53;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues53;54;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues54;55;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues55;56;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues56;57;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues57;58;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues58;59;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues59;60;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues60;61;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues61;62;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues62;63;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues63;64;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues64;65;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues65;66;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues66;67;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues67;68;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues68;69;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues69;70;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues70;71;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues71;72;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues72;73;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestInputStepsValues73;74;On;On;0;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;Open;0;0;0;0;0;2;0.5;1;0;0;0;0;0;0;0
+AutoTestStepTests2;A2D;ECU Current;    <;2.5;Value;;;ECU Current OK;ECU Current Problem;;;A2D;12 V ref A;    =;11.5;Value;1;1;12 V ref A OK;12 V ref A Problem;;;A2D;courtesy lmps;    =;11.5;Value;1;1;courtesy lmps OK;courtesy lmps Problem;;;A2D;12 V ref B;    =;11.5;Value;1;1;12 V ref B OK;12 V ref B Problem;;;A2D;abs/fp ignition;    =;11.5;Value;1;1;abs/fp ignition OK;abs/fp ignition Problem;;
+AutoTestStepTests3;A2D;ign volt 1;    =;11.5;Value;1;1;ign volt 1 OK;ign volt 1 Problem;;;A2D;ign volt 2;    =;11.5;Value;1;1;ign volt 2 OK;ign volt 2 Problem;;;A2D;heat seat sply;    =;11.5;Value;1;1;heat seat sply OK;heat seat sply Problem;;;A2D;rear wiper sply;    =;11.5;Value;1;1;rear wiper sply OK;rear wiper sply Problem;;;A2D;ign volt 3;    =;11.5;Value;1;1;ign volt 3 OK;ign volt 3 Problem;;
+AutoTestStepTests4;A2D;5V ref ign key;    =;4.5;Value;1;1;5V ref ign key OK;5V ref ign key Problem;;;A2D;5V ref;    =;4.5;Value;1;1;5V ref OK;5V ref Problem;;;A2D;5V ref current;    =;4.5;Value;1;1;5V ref current OK;5V ref current Problem;;
+AutoTestStepTests5;Loads;current low;On;;Value;;;current low OK;current low Problem;;;Loads;bpp low;On;;Value;;;bpp low OK;bpp low Problem;;;Loads;wiper sw low;On;;Value;;;wiper sw low OK;wiper sw low Problem;;;PWM;line net Freq;    =;13;Value;7;7;line net Freq OK;line net Freq Problem;;;PWM;line net DC;    =;95;Value;20;20;line net DC OK;line net DC Problem;;
+AutoTestStepTests7;;Ottotest DTC Count;    =;0;Value;0;0;DTC test OK;DTC test Problem;;
+AutoTestStepTests8;Loads;wndshield wpr;On;;Value;;;wndshield wpr OK;wndshield wpr Problem;;;Loads;L trailer sig;Changed;;Value;;;L trailer sig OK;L trailer sig Problem;;;Loads;L turn ind;Changed;;Value;;;L turn ind OK;L turn ind Problem;;;Loads;L stop/turn;Changed;;Value;;;L stop/turn OK;L stop/turn Problem;;
+AutoTestStepTests9;Loads;wndshield wpr;Off;;Value;;;wndshield wpr OK;wndshield wpr Problem;;;Loads;L trailer sig;Off;;Value;;;L trailer sig OK;L trailer sig Problem;;;Loads;L turn ind;Off;;Value;;;L turn ind OK;L turn ind Problem;;;Loads;L stop/turn;Off;;Value;;;L stop/turn OK;L stop/turn Problem;;
+AutoTestStepTests10;Loads;R trailer sig;Changed;;Value;;;R trailer sig OK;R trailer sig Problem;;;Loads;R turn ind;Changed;;Value;;;R turn ind OK;R turn ind Problem;;;Loads;R stop/turn;Changed;;Value;;;R stop/turn OK;R stop/turn Problem;;;Loads;H beam rly;On;;Value;;;H beam rly OK;H beam rly Problem;;
+AutoTestStepTests11;Loads;R trailer sig;Off;;Value;;;R trailer sig OK;R trailer sig Problem;;;Loads;R stop/turn;Off;;Value;;;R stop/turn OK;R stop/turn Problem;;;Loads;R turn ind;Off;;Value;;;R turn ind OK;R turn ind Problem;;;Loads;H beam rly;Off;;Value;;;H beam rly OK;H beam rly Problem;;
+AutoTestStepTests12;Loads;L trailer sig;Changed;;Value;;;L trailer sig OK;L trailer sig Problem;;;Loads;L turn ind;Changed;;Value;;;L turn ind OK;L turn ind Problem;;;Loads;R turn ind;Changed;;Value;;;R turn ind OK;R turn ind Problem;;;Loads;R trailer sig;Changed;;Value;;;R trailer sig OK;R trailer sig Problem;;
+AutoTestStepTests13;Loads;R trailer sig;Off;;Value;;;R trailer sig OK;R trailer sig Problem;;;Loads;L trailer sig;Off;;Value;;;L trailer sig OK;L trailer sig Problem;;;Loads;L turn ind;Off;;Value;;;L turn ind OK;L turn ind Problem;;;Loads;R turn ind;Off;;Value;;;R turn ind OK;R turn ind Problem;;
+AutoTestStepTests14;Loads;wndshld wash;On;;Value;;;wndshld wash OK;wndshld wash Problem;;;Loads;H beam rly;On;;Value;;;H beam rly OK;H beam rly Problem;;;Loads;park lamps;On;;Value;;;park lamps OK;park lamps Problem;;;Loads;court lmps high ;On;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests15;Loads;wndshld wash;Off;;Value;;;wndshld wash OK;wndshld wash Problem;;;Loads;H beam rly;Off;;Value;;;H beam rly OK;H beam rly Problem;;;Loads;park lamps;Off;;Value;;;park lamps OK;park lamps Problem;;;Loads;low beams;Off;;Value;;;low beams OK;low beams Problem;;
+AutoTestStepTests16;Loads;low beams;On;;Value;;;low beams OK;low beams Problem;;;Loads;court lmps high ;On;;Value;;;court lmps high  OK;court lmps high  Problem;;;Loads;wnd shld wpr 2;On;;Value;;;wnd shld wpr 2 OK;wnd shld wpr 2 Problem;;
+AutoTestStepTests17;Loads;low beams;Off;;Value;;;low beams OK;low beams Problem;;;Loads;court lmps high ;Off;;Value;;;court lmps high  OK;court lmps high  Problem;;;Loads;wnd shld wpr 2;Off;;Value;;;wnd shld wpr 2 OK;wnd shld wpr 2 Problem;;
+AutoTestStepTests18;Loads;doors unlck;Changed;;Value;;;doors unlck OK;doors unlck Problem;;;Loads;driver unlk;Changed;;Value;;;driver unlk OK;driver unlk Problem;;
+AutoTestStepTests19;Loads;doors unlck;Off;;Value;;;doors unlck OK;doors unlck Problem;;;Loads;driver lock rly ;Off;;Value;;;driver lock rly  OK;driver lock rly  Problem;;
+AutoTestStepTests20;Loads;court lmps high ;On;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests21;Loads;court lmps high ;Off;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests22;Loads;court lmps high ;On;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests23;Loads;court lmps high ;Off;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests24;Loads;court lmps high ;On;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests25;Loads;court lmps high ;Off;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests26;Loads;wnd shld wpr 2;On;;Value;;;wnd shld wpr 2 OK;wnd shld wpr 2 Problem;;;Loads;court lmps high ;On;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests27;Loads;wnd shld wpr 2;Off;;Value;;;wnd shld wpr 2 OK;wnd shld wpr 2 Problem;;;Loads;court lmps high ;Off;;Value;;;court lmps high  OK;court lmps high  Problem;;
+AutoTestStepTests28;Loads;L stop/turn;On;;Value;;;L stop/turn OK;L stop/turn Problem;;;Loads;L trailer sig;On;;Value;;;L trailer sig OK;L trailer sig Problem;;;Loads;R stop/turn;On;;Value;;;R stop/turn OK;R stop/turn Problem;;;Loads;R trailer sig;On;;Value;;;R trailer sig OK;R trailer sig Problem;;
+AutoTestStepTests29;Loads;stop lmp volt;On;;Value;;;stop lmp volt OK;stop lmp volt Problem;;;Loads;shift lock;On;;Value;;;shift lock OK;shift lock Problem;;;Loads;stop lmp sup;On;12;Value;1;1;stop lmp sup OK;stop lmp sup Problem;;
+AutoTestStepTests30;Loads;L stop/turn;Off;;Value;;;L stop/turn OK;L stop/turn Problem;;;Loads;L trailer sig;Off;;Value;;;L trailer sig OK;L trailer sig Problem;;;Loads;R stop/turn;Off;;Value;;;R stop/turn OK;R stop/turn Problem;;;Loads;R trailer sig;Off;;Value;;;R trailer sig OK;R trailer sig Problem;;
+AutoTestStepTests31;Loads;stop lmp volt;Off;;Value;;;stop lmp volt OK;stop lmp volt Problem;;;Loads;shift lock;Off;;Value;;;shift lock OK;shift lock Problem;;;Loads;stop lmp sup;Off;0;Value;1;1;stop lmp sup OK;stop lmp sup Problem;;
+AutoTestStepTests32;Loads;driver lock rly ;Changed;1;Value;;;driver lock rly  OK;driver lock rly  Problem;;;Loads;lift gate;Off;1;Value;;;lift gate OK;lift gate Problem;;
+AutoTestStepTests33;Loads;driver lock rly ;Off;;Value;;;driver lock rly  OK;driver lock rly  Problem;;;Loads;lift gate;Off;;Value;;;lift gate OK;lift gate Problem;;
+AutoTestStepTests34;Loads;driver lock rly ;Changed;;Value;;;driver lock rly  OK;driver lock rly  Problem;;
+AutoTestStepTests35;Loads;driver lock rly ;Off;;Value;;;driver lock rly  OK;driver lock rly  Problem;;
+AutoTestStepTests36;Loads;driver unlk;Changed;1;%;1;;driver unlk OK;driver unlk Problem;;;Loads;doors unlck;Changed;;Value;;;doors unlck OK;doors unlck Problem;;
+AutoTestStepTests37;Loads;driver unlk;Off;;Value;;;driver unlk OK;driver unlk Problem;;
+AutoTestStepTests38;;Wiper High Speed Switch;Inactive;;;;;Wiper High Speed Switch OK;Wiper High Speed Switch Problem;;;;Turn Left Signal Switch;Inactive;;;;;Turn Left Signal Switch OK;Turn Left Signal Switch Problem;;;;Turn Right Signal Switch;Inactive;;;;;Turn Right Signal Switch OK;Turn Right Signal Switch Problem;;;;High Beam Select Switch;Inactive;;;;;High Beam Select Switch OK;High Beam Select Switch Problem;;;;Hazard Lamp Switch;Inactive;;;;;Hazard Lamp Switch OK;Hazard Lamp Switch Problem;;
+AutoTestStepTests39;;Windshield Washer Switch;Inactive;;;;;Windshield Washer Switch OK;Windshield Washer Switch Problem;;;;Flash to Pass Switch;Inactive;;;;;Flash to Pass Switch OK;Flash to Pass Switch Problem;;;;Parklamp Switch;Inactive;;;;;Parklamp Switch OK;Parklamp Switch Problem;;;;Headlamp Switch;Inactive;;;;;Headlamp Switch OK;Headlamp Switch Problem;;;;Auto Hdlp. Disable Switch;Inactive;;;;;Auto Hdlp. Disable Switch OK;Auto Hdlp. Disable Switch Problem;;
+AutoTestStepTests40;;Traction Control Switch;Inactive;;;;;Traction Control Switch OK;Traction Control Switch Problem;;;;Wiper Park Switch;Inactive;1;;;;Wiper Park Switch OK;Wiper Park Switch Problem;;;;Park Brake Switch;Released;;;;;Park Brake Switch OK;Park Brake Switch Problem;;;;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only);Inactive;;;;;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only) OK;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only) Problem;;;;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);Door Closed;;;;;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) OK;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) Problem;;
+AutoTestStepTests41;;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);Inactive;;;;;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) OK;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) Problem;;;;Driver Door Ajar Switch;Door Closed;;;;;Driver Door Ajar Switch OK;Driver Door Ajar Switch Problem;;;;Door Ajar Switch - Right Rear;Door Closed;;;;;Door Ajar Switch - Right Rear OK;Door Ajar Switch - Right Rear Problem;;;;Ignition Off/Run/Crank;Key Out ACC;;;;;Ignition Off/Run/Crank OK;Ignition Off/Run/Crank Problem;;;;Cruise Control Switch;Off;;;;;Cruise Control Switch OK;Cruise Control Switch Problem;;
+AutoTestStepTests42;;SWC Bank 1 Status;Switch 8;;;;;SWC Bank 1 Status OK;SWC Bank 1 Status Problem;;;;Windshield Wiper Switch;Low;;;;;Windshield Wiper Switch OK;Windshield Wiper Switch Problem;;;;Tap Up/Down Switch;Down;;;;;Tap Up/Down Switch OK;Tap Up/Down Switch Problem;;;;Ambient Light Status;Day;;;;;Ambient Light Status OK;Ambient Light Status Problem;;;;Dimming Control Signal;    =;5;Value;5;5;Dimming Control Signal OK;Dimming Control Signal Problem;%;%
+AutoTestStepTests43;;BPP Sensor;    =;100;Value;50;50;BPP Sensor OK;BPP Sensor Problem;;;;Battery Current;    =;-60;Value;20;20;Battery Current OK;Battery Current Problem;A;A;;Door Ajar Switch - Left Rear;Door Closed;;;;;Door Ajar Switch - Left Rear OK;Door Ajar Switch - Left Rear Problem;;;;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);Inactive;;;;;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) OK;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) Problem;;;;Door Key Cyl. Unlock Switch;Inactive;;;;;Door Key Cyl. Unlock Switch OK;Door Key Cyl. Unlock Switch Problem;;
+AutoTestStepTests44;;Driver Door Lock Switch;Inactive;;;;;Driver Door Lock Switch OK;Driver Door Lock Switch Problem;;;;Driver Door Unlock Switch;Inactive;;;;;Driver Door Unlock Switch OK;Driver Door Unlock Switch Problem;;;;Liftgate Handle Switch (C/K Utilities and R/V Truck Only);Inactive;;;;;Liftgate Handle Switch (C/K Utilities and R/V Truck Only) OK;Liftgate Handle Switch (C/K Utilities and R/V Truck Only) Problem;;;;Ctsy. Lamp Actv. Reason *;Manual;;;;;Ctsy. Lamp Actv. Reason * OK;Ctsy. Lamp Actv. Reason * Problem;;
+AutoTestStepTests45;;Wiper High Speed Switch;Active;;;;;Wiper High Speed Switch OK;Wiper High Speed Switch Problem;;;;Turn Left Signal Switch;Active;;;;;Turn Left Signal Switch OK;Turn Left Signal Switch Problem;;;;Turn Right Signal Switch;Active;;;;;Turn Right Signal Switch OK;Turn Right Signal Switch Problem;;;;High Beam Select Switch;Active;;;;;High Beam Select Switch OK;High Beam Select Switch Problem;;;;Auto Hdlp. Disable Switch;Active;;;;;Auto Hdlp. Disable Switch OK;Auto Hdlp. Disable Switch Problem;;
+AutoTestStepTests46;;Windshield Washer Switch;Active;;;;;Windshield Washer Switch OK;Windshield Washer Switch Problem;;;;Flash to Pass Switch;Active;;;;;Flash to Pass Switch OK;Flash to Pass Switch Problem;;;;Parklamp Switch;Active;;;;;Parklamp Switch OK;Parklamp Switch Problem;;;;Headlamp Switch;Active;;;;;Headlamp Switch OK;Headlamp Switch Problem;;;;Hazard Lamp Switch;Active;;;;;Hazard Lamp Switch OK;Hazard Lamp Switch Problem;;
+AutoTestStepTests47;;Traction Control Switch;Active;;;;;Traction Control Switch OK;Traction Control Switch Problem;;;;Wiper Park Switch;Active;1;;;;Wiper Park Switch OK;Wiper Park Switch Problem;;;;Park Brake Switch;Applied;;;;;Park Brake Switch OK;Park Brake Switch Problem;;;;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only);Active;;;;;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only) OK;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only) Problem;;;;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);Door Ajar;;;;;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) OK;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) Problem;;
+AutoTestStepTests48;;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);Active;;;;;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) OK;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) Problem;;;;Driver Door Ajar Switch;Door Ajar;;;;;Driver Door Ajar Switch OK;Driver Door Ajar Switch Problem;;;;Door Ajar Switch - Right Rear;Door Ajar;;;;;Door Ajar Switch - Right Rear OK;Door Ajar Switch - Right Rear Problem;;;;Ignition Off/Run/Crank;Key In ACC;;;;;Ignition Off/Run/Crank OK;Ignition Off/Run/Crank Problem;;;;Cruise Control Switch;Cancel;;;;;Cruise Control Switch OK;Cruise Control Switch Problem;;
+AutoTestStepTests49;;SWC Bank 1 Status;Switch 1;;;;;SWC Bank 1 Status OK;SWC Bank 1 Status Problem;;;;Windshield Wiper Switch;Intermittent;;;;;Windshield Wiper Switch OK;Windshield Wiper Switch Problem;;;;Dimming Control Signal;    =;40;Value;10;10;Dimming Control Signal OK;Dimming Control Signal Problem;%;%;;Tap Up/Down Switch;Up;;;;;Tap Up/Down Switch OK;Tap Up/Down Switch Problem;;;;Ambient Light Status;Night;0;Value;5;5;Ambient Light Status OK;Ambient Light Status Problem;;
+AutoTestStepTests50;;BPP Sensor;    =;950;Value;100;100;BPP Sensor OK;BPP Sensor Problem;;;;Battery Current;    =;60;Value;20;20;Battery Current OK;Battery Current Problem;A;A;;Door Ajar Switch - Left Rear;Door Ajar;;;;;Door Ajar Switch - Left Rear OK;Door Ajar Switch - Left Rear Problem;;;;Psgr. Door Lock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);Active;;;;;Psgr. Door Lock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) OK;Psgr. Door Lock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only) Problem;;;;Door Key Cyl. Unlock Switch;Active;;;;;Door Key Cyl. Unlock Switch OK;Door Key Cyl. Unlock Switch Problem;;
+AutoTestStepTests51;;Driver Door Lock Switch;Active;;;;;Driver Door Lock Switch OK;Driver Door Lock Switch Problem;;;;Driver Door Unlock Switch;Active;;;;;Driver Door Unlock Switch OK;Driver Door Unlock Switch Problem;;;;Liftgate Handle Switch (C/K Utilities and R/V Truck Only);Active;;;;;Liftgate Handle Switch (C/K Utilities and R/V Truck Only) OK;Liftgate Handle Switch (C/K Utilities and R/V Truck Only) Problem;;;;Ctsy. Lamp Actv. Reason *;Manual Defeat;;;;;Ctsy. Lamp Actv. Reason * OK;Ctsy. Lamp Actv. Reason * Problem;;
+AutoTestStepTests52;Loads;back up lmps;On;;Value;;;back up lmps OK;back up lmps Problem;;
+AutoTestStepTests53;Loads;back up lmps;Off;;Value;;;back up lmps OK;back up lmps Problem;;
+AutoTestStepTests54;Loads;drl relay;On;;Value;;;drl relay OK;drl relay Problem;;
+AutoTestStepTests55;Loads;drl relay;Off;;Value;;;drl relay OK;drl relay Problem;;
+AutoTestStepTests56;Loads;H beam rly;On;;Value;;;H beam rly OK;H beam rly Problem;;
+AutoTestStepTests57;Loads;H beam rly;Off;;Value;;;H beam rly OK;H beam rly Problem;;
+AutoTestStepTests58;Loads;led dimmer;On;;Value;;;led dimmer OK;led dimmer Problem;;;Loads;led dimmin;On;12;Value;1;1;led dimmin OK;led dimmin Problem;;
+AutoTestStepTests59;Loads;led dimmin;Off;0;Value;1;1;led dimmin OK;led dimmin Problem;;;Loads;led dimmer;Off;;Value;;;led dimmer OK;led dimmer Problem;;
+AutoTestStepTests60;Loads;low beams;On;;Value;;;;;;
+AutoTestStepTests61;Loads;low beams;Off;;Value;;;low beams OK;low beams Problem;;
+AutoTestStepTests62;Loads;park lamps;On;;Value;;;park lamps OK;park lamps Problem;;
+AutoTestStepTests63;Loads;park lamps;Off;;Value;;;park lamps OK;park lamps Problem;;
+AutoTestStepTests64;Loads;horn rly;On;;Value;;;horn rly OK;horn rly Problem;;
+AutoTestStepTests65;Loads;horn rly;Off;;Value;;;horn rly OK;horn rly Problem;;
+AutoTestStepTests66;Loads;shift lock;On;;Value;;;shift lock OK;shift lock Problem;;
+AutoTestStepTests67;Loads;shift lock;Off;;Value;;;shift lock OK;shift lock Problem;;
+AutoTestStepTests68;Loads;wndshield wpr;On;;Value;;;wndshield wpr OK;wndshield wpr Problem;;
+AutoTestStepTests69;Loads;wndshield wpr;Off;;Value;;;wndshield wpr OK;wndshield wpr Problem;;
+AutoTestStepTests70;Loads;wnd shld wpr 2;On;;Value;;;wnd shld wpr 2 OK;wnd shld wpr 2 Problem;;
+AutoTestStepTests71;Loads;wnd shld wpr 2;Off;;Value;;;wnd shld wpr 2 OK;wnd shld wpr 2 Problem;;
+AutoTestStepTests72;Loads;wndshld wash;On;;Value;;;wndshld wash OK;wndshld wash Problem;;
+AutoTestStepTests73;Loads;wndshld wash;Off;;Value;;;wndshld wash OK;wndshld wash Problem;;
+AutoTestTestStatus;Battery Off , Ignition Off;Battery On;batt & ign ON  testing current & voltages references 1/3;batt & ign ON  testing current & voltages references 2/3;batt & ign ON  testing current & voltages references 3/3;testing low references & line network bus;clearing DTC'S;read dtc;testing wiper high & turn L sw's, check windshield wiper ON & L trailer, L turn, L stop blinks;testing wiper high & turn L sw's, check windshield wiper & L trailer, L turn, L stop OFF;testing high beam & turn R sw's,  check Hbeam rly ON & R trailer, R turn & R stop blinks;testing high beam & turn R sw's,  check Hbeam rly, R trailer, R turn & R stop OFF;testing hazard sw, check L trailer, L turn, R trailer & R turn blinks;testing hazard sw, check L trailer, L turn, R trailer & R turn blinks;wnd wash, flash, lift gate & prk brk sw's,  check windshield wash, H beam, courtesy lamps & park lmps ON;wnd wash, flash prk brk, lift gate sw's & hdlmps off sw,  check windshield wash, H beam, park lmps, courtesy lamps & low beam OFF;testing headlmps, courtesy & windshld wpr sws, check low beams, courtesy lmp & wndshld wpr 2 ON ;testing headlmps, courtesy & windshld wpr sws, check low beams, courtesy lmp & wndshld wpr 2 OFF ;pass door lock sw, check  driver unlock-door unlock blinks;pass door lock sw, check driver unlock-door unlock blinks;testing rf door ajar sw, check courtesy lamps ON;testing rf door ajar sw, check courtesy lamps OFF;testing lf door ajar sw, check courtesy lamps ON;testing rf door ajar sw, check courtesy lamps OFF;testing rr door ajar sw, check courtesy lamps ON;testing rr door ajar sw, check courtesy lamps ON;testing windshield wiper & lr door ajar sw, check wndshld wiper & coutesy lmps ON;testing windshield wiper & lr door ajar sw, check wndshld wiper & coutesy lmps OFF;testing bpp sig (1/2), check L stop, L trailer, R stop & R trailer  ON;testing bpp sig (2/2), check stop lamp & shift lock & stop lmp supp  ON;testing bpp sig (1/2), check L stop, L trailer, R stop & R trailer  OFF;testing bpp sig (2/2), check stop lamp & shift lock OFF, & stop lmp supp = 0;testing passdoor & handle sw, check drivers lock & liftgate blinks;testing passdoor & handle sw, check drivers lock & liftgate OFF;testing driver unlock sw, check drivers lock blink;testing driver unlock sw, check drivers lock OFF;testing driver lock sw, check drivers unlock & doors unlck blinks;testing driver lock sw, check drivers unlock blinks;testing parameters low values 1/7;testing parameters low values 2/7;testing parameters low values 3/7;testing parameters low values 4/7;testing parameters low values 5/7;testing parameters low values 6/7;testing parameters low values 7/7;testing parameters high values 1/7;testing parameters high values 2/7;testing parameters high values 3/7;testing parameters high values 4/7;testing parameters high values 5/7;testing parameters high values 6/7;testing parameters high values 7/7;actuators test, back up lamps ON;actuators test, back up lamps OFF;actuators test, drl relay ON;actuators test, drl relay OFF;actuators test, high beams rly ON;actuators test, high beams rly OFF;actuators test, led dimenr ON & led dimming == 12;actuators test, led dimenr OFF & led dimming == 0;actuators test, low beams rly ON;actuators test, low beams rly OFF;actuators test, parking lamps rly ON;actuators test, parking lamps rly OFF;actuators test, horn rly ON;actuators test, horn rly OFF;actuators test, shift lock sol ON;actuators test, shift lock sol OFF;actuators test, wiper high ON;actuators test, wiper high OFF;actuators test, wiper relay ON;actuators test, wiper relay OFF;actuators test, wiper washer ON;actuators test, wiper washer OFF
+AutoTestStepMessage;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+AutoTestPeriod;5;3;5;1;1;1;1;0;2;2;3;2;2;2;2;2;2;2;0.5;1;3;5;3;5;3;5;3;5;3;1;3;1;0.5;2;0.5;2;0.5;2;5;1;1;1;1;1;1;5;1;1;1;5;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;5
+AutoTestLoadsPolarity;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False;False
+AutoTestCaptureTime;1;1;2;1;1;1;1;0;2;2;2;2;2;2;2;2;2;2;0.5;1;2;2;2;3;2;2;2;2;2;1;1;1;0.5;2;0.5;2;0.5;2;5;1;1;1;1;1;1;5;1;1;1;5;1;1;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2;2
+AutoTestRunAt;Capture Ended;Capture Ended;Wait Until;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Wait Until;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended;Capture Ended
+AutoTestSource;NG;NG;NG;NG;NG;NG;Ottotest;Ottotest;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;Ottotest;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG;NG
+AutoTestSelectedModule;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1;-1
+AutoTestMessageTimeout;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No;No
+AutoTestBathTest;park lamps;wndshield wpr;drl relay;wndshld wash;R trailer sig;driver unlk;low beams;horn rly;H beam rly;L trailer sig;doors unlck;court lmps high ;L turn ind;R turn ind;shift lock;led dimmer;L stop/turn;R stop/turn;stop lmp volt;wnd shld wpr 2;back up lmps;driver lock rly ;led dimmin;stop lmp sup
+AutoTestOttotestAction;None;;;None;;;None;;;None;;;None;;;None;;;ClearDTC;;;ReadDTC;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;None;;;SendCommand;;;None;;;None;;;None;;;None;;;None;;;None;;;SendCommand;;;None;;;None;;;None;;;None;;;None;;;None;;;Actuator;Backup Lamps Test;On ;Actuator;Backup Lamps Test;Off ;Actuator;DRL Test;On ;Actuator;DRL Test;Off ;Actuator;High Beams Test;On ;Actuator;High Beams Test;Off ;Actuator;LED Dimming Test;On ;Actuator;LED Dimming Test;Off ;Actuator;Low Beams Test;On ;Actuator;Low Beams Test;Off ;Actuator;Parking Lamps Test;On ;Actuator;Parking Lamps Test;Off ;Actuator;Horn Test;On ;Actuator;Horn Test;Off ;Actuator;Shift Lock Solenoid Test;On ;Actuator;Shift Lock Solenoid Test;Off ;Actuator;Wiper High Speed Relay Test;On ;Actuator;Wiper High Speed Relay Test;Off ;Actuator;Wiper Relay Test;On ;Actuator;Wiper Relay Test;Off ;Actuator;Wiper Washer Motor Test;On ;Actuator;Wiper Washer Motor Test;Off 
+OttotestVehicleSelection;Manufacturer;GM;False;Year;2010;True;VIN10;A;True;Vehicle Type;LD Truck, MPV, Incomplete;True;Make;Chevrolet;True;VIN3;A,B,C,N;True;TruckLine;Traverse;True;VIN5;V;True;VIN6;H;True;Engine;3.6L LLT;True;VIN8;V;True;Qualifier1;LTZ;True;Qualifier2;AWD;True;Qualifier3;1/2 Ton;True;Model;Traverse;True;Vehicle Powertrain Datastream;2010_LD Truck, MPV, Incomplete_Chevrolet_Traverse_3.6L LLT;True;Vehicle Chassis Datastream;2010_LD Truck, MPV, Incomplete_Chevrolet_Traverse;True;Vehicle Body Datastream;2010_LD Truck, MPV, Incomplete_Chevrolet_Traverse;True;Category;Powertrain;False;Category;Body;False;Module;Body;False
+OttotestParametersSelection;27;Datastream;Description-english;Modes;PID;Formula;Byte;Size;ModuleInformation;Unit;SEVstate;Min;Max;Graph;StepMode;Note;Signed;SystemInfo;SystemInfo2;SystemInfo3;Mode22_PID_LEN;GraphMin;GraphMax;Response;Value;FNumber;Position;NeedToPAD;11B BCM_CommonARC;Ambient Light Status;2C;8058;(x[0]>>0)&3;1;1;;;0 Night@1 Day@10 Unknown@11 Invalid;;;-1;-1;;;;;;;;;04;;FE;0;;11B BCM_CommonARC;Auto Hdlp. Disable Switch;2C;804C;(x[1]>>0)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;09 03;;FE;1;;11B BCM_CommonARC;Battery Current;2C;804A;(((x[0]<<8)+x[1])*0.1)-3276.8;1;2;;A;;0;19;-1;;;;;;;;;;00 00;;FE;3;;11B BCM_CommonARC;BPP Sensor;2C;806C;(x[0]<<8)+x[1];1;2;;;;0;5000;-1;;;;;;;;;;03 00;;FE;5;;11B BCM_CommonARC;Cruise Control Switch;2C;4047;(x[0]>>0)&7;1;1;;;0 Cancel@1 On@10 Off@11 Resume@100 Set@101 Error;;;-1;-1;;;;;;;;;;;;;;11B BCM_CommonARC;Ctsy. Lamp Actv. Reason *;2C;806B;(x[0]>>0)&15;1;1;;;0 Off@1 Panic@10 Manual@11 Air Bag@100 Door Open@101 RFA@110 RFA Theft@111 Door Open@1000 Exit@1001 Manual Defeat;;;;;;;;;;;;;04;;FE;0;;11B BCM_CommonARC;Dimming Control Signal;2C;806A;x[0]*0.39216;1;1;;%;;0;100;-1;;;;;;;;;;09;;FE;1;;11B BCM_CommonARC;Door Ajar Switch - Left Rear;2C;8087;(x[0]>>0)&1;1;1;;;0 Door Closed@1 Door Ajar;;;-1;-1;;;;;;;;;03;;FE;2;;11B BCM_CommonARC;Door Ajar Switch - Right Rear;2C;8088;(x[0]>>0)&1;1;1;;;0 Door Closed@1 Door Ajar;;;-1;-1;;;;;;;;;00;;FE;3;;11B BCM_CommonARC;Door Key Cyl. Unlock Switch;2C;8085;(x[0]>>2)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;00;;FE;4;;11B BCM_CommonARC;Driver Door Ajar Switch;2C;8085;(x[0]>>0)&1;1;1;;;0 Door Closed@1 Door Ajar;;;-1;-1;;;;;;;;;00;;FE;4;;11B BCM_CommonARC;Driver Door Lock Switch;2C;8085;(x[0]>>5)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;00;;FE;4;;11B BCM_CommonARC;Driver Door Unlock Switch;2C;8085;(x[0]>>4)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;00;;FE;4;;11B BCM_CommonARC;Flash to Pass Switch;2C;804C;(x[1]>>4)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;09 03;;FE;1;;11B BCM_CommonARC;Hazard Lamp Switch;2C;804C;(x[0]>>1)&1;1;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;09 03;;FE;1;;11B BCM_CommonARC;Headlamp Switch;2C;804C;(x[1]>>2)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;09 03;;FE;1;;11B BCM_CommonARC;High Beam Select Switch;2C;804C;(x[1]>>3)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;09 03;;FE;1;;11B BCM_CommonARC;Ignition Off/Run/Crank;2C;8042;(x[0]>>0)&3;1;1;;;0 Key Out ACC@1 Crank@10 Run@11 Key In ACC;;;-1;-1;;;;;;;;;03;;FE;5;;11B BCM_CommonARC;Liftgate Handle Switch (C/K Utilities and R/V Truck Only);2C;8089;(x[1]>>6)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;00 00;;FD;0;;11B BCM_CommonARC;Park Brake Switch;2C;809C;(x[0]>>0)&1;1;1;;;0 Released@1 Applied;;;-1;-1;;;;;;;;;00;;FD;2;;11B BCM_CommonARC;Parklamp Switch;2C;804C;(x[1]>>1)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Passenger Door Ajar Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);2C;8086;(x[0]>>0)&1;1;1;;;0 Door Closed@1 Door Ajar;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Psgr. Door Lock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);2C;8086;(x[0]>>5)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Psgr. Door Unlock Switch (Chevy Impala, Monte Carlo and Police Vehicles Only);2C;8086;(x[0]>>4)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Rear Closure Open Switch (C/K Utilities, R/V Truck and SRX Only);2C;8089;(x[1]>>1)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;SWC Bank 1 Status;2C;8046;(x[0]>>0)&15;1;1;;;0 Idle@1 Switch 1@10 Switch 2@11 Switch 3@100 Switch 4@101 Switch 5@110 Switch 6@111 Switch 7@1000 Switch 8@1001 Switch 9@1010 Switch 10;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Tap Up/Down Switch;2C;80A4;(x[0]>>0)&3;1;1;;;0 Off@1 On@10 Up@11 Down;;;-1;-1;Trucks Only, Except Cadillac Incomplete;;;;;;;;N/A;;;;;11B BCM_CommonARC;Traction Control Switch;2C;809C;(x[0]>>1)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Turn Left Signal Switch;2C;804C;(x[1]>>7)&1;2;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Turn Right Signal Switch;2C;804C;(x[0]>>0)&1;1;2;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Windshield Washer Switch;2C;807A;(x[0]>>3)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Windshield Wiper Switch;2C;807C;(x[0]>>0)&7;1;1;;;0 Off@1 Intermittent@10 Low@11 High@100 Switch Fault;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Wiper High Speed Switch;2C;807A;(x[0]>>0)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;;11B BCM_CommonARC;Wiper Park Switch;2C;807A;(x[0]>>1)&1;1;1;;;0 Inactive@1 Active;;;-1;-1;;;;;;;;;N/A;;;;
+OttotestActuatorsSelection;Backup Lamps Test;On ;Off ;;;;;;;;;DRL Test;On ;Off ;;;;;;;;;High Beams Test;On ;Off ;;;;;;;;;LED Dimming Test;On ;Off ;;;;;;;;;Low Beams Test;On ;Off ;;;;;;;;;Parking Lamps Test;On ;Off ;;;;;;;;;Horn Test;On ;Off ;;;;;;;;;Shift Lock Solenoid Test;On ;Off ;;;;;;;;;Wiper High Speed Relay Test;On ;Off ;;;;;;;;;Wiper Relay Test;On ;Off ;;;;;;;;;Wiper Washer Motor Test;On ;Off ;;;;;;;;
+OttotestMiscellaneousSelection;
+OttotestDTCSelection;U1511.00
+OttotestVehicleSelection2;
+OttotestParametersSelection2;
+OttotestActuatorsSelection2;
+OttotestDTCSelection2;
+
